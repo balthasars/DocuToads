@@ -2,6 +2,8 @@
 
 DocuToads is an open source minimum edit distance algorithm written in Python 2.7 that can handle cut-paste edit operations, created by Henrik Hermansson, who reserves some rights. This code may be modified and used by anyone, granted that this source is cited.
 
+_This particular version is courtesy of Prune Truong who has improved comments, disabled multicore functionality which prevented the script from running at all on our computers. 
+
 ## Instructions
 
 1. The texts
@@ -23,7 +25,7 @@ DocuToads is an open source minimum edit distance algorithm written in Python 2.
    1. collections
    1. csv
    1. matplotlib
-1. A list of cases
+1. A list of cases 
    1. By a "case" is meant one pair of texts to be compared
    1. You will need a python list of cases where each entry (case) is a list containing (in string format) in the correct order:
      1. Path to `text 1`
@@ -33,6 +35,21 @@ DocuToads is an open source minimum edit distance algorithm written in Python 2.
      1. Short name for case
      1. A list of article names in the first text, for example: ["Article 1", "Article 2", "Article 3"]. Make sure the list matches the actual number of articles separated by DTBREAKPOINT markers. Enter empty list if you don't want to perform article-by-article comparison of the two texts.
      1. A list of article names in the second text. Make sure the list matches the actual number of articles separated by DTBREAKPOINT markers. Enter empty list if you don't want to perform article-by-article comparison of the two texts. 
+
+Shouuld look like this (single pair for whole document)
+```
+caselist = [
+    ['example/1751_1.txt', 'example/1751_2.txt', 'example_pre_draft', 'example_draft', 'example_case_id', 'artname1', 'artname2']
+]
+```
+or for multiple text pairs:
+```
+caselist = [
+    ['example/1751_1.txt', 'example/1751_2.txt', 'example_pre_draft', 'example_draft', 'example_case_id', 'artname1', 'artname2'],\
+    ['example/1752_1.txt', 'example/1752_2.txt', 'example_pre_draft_2', 'example_draft_2', 'example_case_id_2', 'artname1', 'artname2']
+
+]
+```
    1. Name this lists "caselist" and enter into `DocuToads_main.py`.
 1. Set the parameters
    1. Open `DocuToads_main.py` and enter the following parameters:
