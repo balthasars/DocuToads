@@ -2,7 +2,7 @@
 
 DocuToads is an open source minimum edit distance algorithm written in Python 2.7 that can handle cut-paste edit operations, created by Henrik Hermansson, who reserves some rights. This code may be modified and used by anyone, granted that this source is cited.
 
-_This particular version is courtesy of Prune Truong who has improved comments, disabled multicore functionality which prevented the script from running at all on our computers. 
+_This particular version is courtesy of Prune Truong who has improved comments, disabled multicore functionality which prevented the script from running at all on our computers._
 
 ## Instructions
 
