@@ -22,7 +22,14 @@ import bs4
 
 from DocuToads_subfunctions import *
 
-def DocuToads_executor_pp(fileandpath1, fileandpath2, propname, legname, caseid, artnames1, artnames2, outpath, plottype, by_article, backtrace, cutoff):    
+def DocuToads_executor_pp(fileandpath1, fileandpath2, propname, legname, caseid, artnames1, artnames2, outpath, plottype, by_article, backtrace, cutoff):
+    # propname is name of fist text and legname is name of second text
+    print(fileandpath1)
+    print(fileandpath2)
+    print(propname)
+    print(legname)
+    print(caseid)
+    print(outpath)
     warning = None
     exception = None
     
@@ -45,9 +52,11 @@ def DocuToads_executor_pp(fileandpath1, fileandpath2, propname, legname, caseid,
         lentext2 = len(text2) # Integer   
         
         # Create DT matrix
+        print("comparing texts...")
         matrix = text_compare(text1, text2) # numpy array       
         
         # Create backtrace, calculate MED
+        print("creating material to backtraces...")
         output = superloop(matrix, cutoff) # List, first item is MED, second item is list of lists. Each of those lists contains three items; the column (integer), row (integer) and type of change/match (string).
         del matrix     
         
@@ -65,6 +74,7 @@ def DocuToads_executor_pp(fileandpath1, fileandpath2, propname, legname, caseid,
  
         # Output on a document basis               
         else:
+            print("doing outdocs")
             coutput = collections.Counter(list(zip(*output[0])[2]))
             data = [[caseid, propname, legname, lentext1, lentext2, "All", "All", coutput["match"], coutput["addition"], coutput["substitution"], coutput["transposition"], coutput["deletion"]]]
     
@@ -76,6 +86,8 @@ def DocuToads_executor_pp(fileandpath1, fileandpath2, propname, legname, caseid,
             
         # Save the backtrace            
         if backtrace == "yes":
+            print("doing the backtrace")
+            #row of text 1, row of text 2, action, then words
             backtrace_writer(output[0], text1, text2, outpath, propname, legname, caseid)    
 
         # Remove texts that are no longer needed from active memory
@@ -95,6 +107,8 @@ def DocuToads_executor_pp(fileandpath1, fileandpath2, propname, legname, caseid,
             else:
                 plotter(b_m, outpath, propname, legname, by_article, plottype, "", "", lentext1, lentext2, "", "")
 
+        print('SUCCESS')
+
     except:
         exception = traceback.format_exc()
         warandexc = [[propname], [legname], [warning], [exception]]
@@ -102,7 +116,8 @@ def DocuToads_executor_pp(fileandpath1, fileandpath2, propname, legname, caseid,
             writer = csv.writer(g, delimiter = ";")
             writer.writerow(warandexc)
         g.close()        
-    
+
+
     
         
     
