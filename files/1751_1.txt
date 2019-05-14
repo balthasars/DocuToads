@@ -1,0 +1,2742 @@
+"Obligationenrecht                                                             Entwurf
+(Aktienrecht und Rechnungslegungsrecht sowie
+Anpassungen im Recht der Kollektiv- und der
+Kommanditgesellschaft, im GmbH-Recht,
+Genossenschafts-, Handelsregister- sowie Firmenrecht)
+Änderung vom …
+ Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+nach Einsicht in die Botschaft des Bundesrates vom 21. Dezember 20071,
+beschliesst:
+ I
+1. Der sechsundzwanzigste Titels des Obligationenrechts2 wird wie folgt geändert:
+              1. Abschnitt: Allgemeine Bestimmungen
+              Art. 620
+A. Begriff    1 Die Aktiengesellschaft ist eine Kapitalgesellschaft, an der eine oder
+              mehrere Personen oder Handelsgesellschaften beteiligt sind. Ihr
+              Aktienkapital ist in den Statuten festgelegt. Für ihre Verbindlichkeiten
+              haftet ausschliesslich das Gesellschaftsvermögen.
+              2 Die Aktionäre sind mit mindestens je einer Aktie am Aktienkapital
+              beteiligt. Sie sind ausschliesslich zur Zahlung des Ausgabebetrags
+              ihrer Aktien verpflichtet.
+              Art. 622 Abs. 4 und 5
+              4 Die Aktien weisen einen Nennwert auf, der grösser als null Rappen
+              ist.
+              5 Werden Aktientitel ausgegeben, so müssen sie von mindestens
+              einem Mitglied des Verwaltungsrats unterschrieben sein.
+              Art. 623 Abs. 2
+              2 Für die Zusammenlegung von börsenkotierten Aktien braucht es
+              einen Beschluss der Generalversammlung, der mindestens zwei Drittel
+              der abgegebenen Stimmen und die Mehrheit der vertretenen Aktien-
+1    BBl 2008 1589
+2    SR 220
+2007-1832                                                                        1751
+"
+"Obligationenrecht
+               nennwerte auf sich vereinigt. Bei nicht börsenkotierten Aktien bedarf
+               es der Zustimmung aller betroffenen Aktionäre.
+               Art. 627
+II. Weitere    Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten
+Bestimmungen
+               Bestimmungen über:
+                  1.   die Änderung der Statuten, soweit sie von den gesetzlichen
+                       Bestimmungen abweichen;
+                  2.   die eigenhändige Unterzeichnung der Aktien;
+                  3.   die Ausrichtung von Tantiemen;
+                  4.   die Zuständigkeiten der Generalversammlung betreffend die
+                       Festlegung der Vergütungen der Mitglieder des Verwaltungs-
+                       rats und ihnen nahestehender Personen sowie betreffend die
+                       Ausrichtung von Aktien und Optionen an Mitarbeiter;
+                  5.   die Zusicherung von Bauzinsen;
+                  6.   Sacheinlagen, Einlagen durch Verrechnung und Sachüber-
+                       nahmen;
+                  7    die Begrenzung der Dauer der Gesellschaft;
+                  8.   Konventionalstrafen bei nicht rechtzeitiger Leistung der Ein-
+                       lage;
+                  9.   die bedingte Kapitalerhöhung und das Kapitalband;
+                  10. die Vorrechte einzelner Kategorien von Aktien, über Partizi-
+                       pationsscheine, Genussscheine und über die Gewährung
+                       besonderer Vorteile;
+                  11. die Ausrichtung von Zwischendividenden;
+                  12. die Beschränkung der Übertragbarkeit von Namenaktien;
+                  13. die Beschränkung des Stimmrechts;
+                  14. die Genehmigung von Entscheiden des Verwaltungsrats durch
+                       die Generalversammlung;
+                  15. bei nicht börsenkotierten Aktien die Beschränkung des Rechts
+                       des Aktionärs, sich an der der Generalversammlung vertreten
+                       zu lassen;
+                  16. die Möglichkeit der Durchführung der Generalversammlung
+                       im Ausland;
+                  17. die Verwendung elektronischer Medien bei der Einberufung
+                       und bei der Durchführung der Generalversammlung;
+                  18. die im Gesetz nicht vorgesehenen Fälle, in denen die General-
+                       versammlung nur mit qualifizierter Mehrheit Beschluss fassen
+                       kann;
+1752
+"
+"Obligationenrecht
+                     19. die Entsendung von Vertretern einzelner Gruppen von Aktio-
+                          nären oder einer Körperschaft des öffentlichen Rechts in den
+                          Verwaltungsrat;
+                     20. die Beschlussfassung des Verwaltungsrats, sofern von den
+                          gesetzlichen Vorschriften abgewichen wird;
+                     21. die Ermächtigung zur Übertragung der Geschäftsführung auf
+                          einzelne Mitglieder oder auf Dritte;
+                     22. die Voraussetzungen, bei deren Eintritt der Verwaltungsrat die
+                          Generalversammlung einzuberufen und Sanierungsmassnah-
+                          men zu beantragen hat;
+                     23. die Organisation und die Aufgaben der Revisionsstelle, sofern
+                          dabei über die gesetzlichen Vorschriften hinausgegangen
+                          wird;
+                     24. die Verwendung des Vermögens der aufgelösten Gesellschaft,
+                          sofern von den gesetzlichen Vorschriften abgewichen wird;
+                     25. die Möglichkeit, in bestimmter Form ausgegebene Aktien in
+                          eine andere Form umzuwandeln, sowie eine Verteilung der
+                          dabei entstehenden Kosten, soweit sie von der Regelung des
+                          Bucheffektengesetzes vom …3 abweicht.
+                  Art. 628
+                  Aufgehoben
+                  Art. 632 Randtitel, Abs. 1
+III. Einlagen und 1 Bei der Errichtung der Gesellschaft muss die Einlage für mindestens
+Sachübernahme
+1. Mindest-
+                  25 Prozent des Nennwertes jeder Aktie geleistet sein.
+einlage
+                  Art. 633 Abs. 3 (neu)
+                  3 Als Einlagen in Geld gelten Einzahlungen in Franken und in einer
+                  andern frei konvertiblen Geldwährung.
+                  Art. 634
+b. Sacheinlagen   1 Sacheinlagen gelten als Deckung, wenn:
+                     1.   sie aktivierbar sind;
+                     2.   sie in das Vermögen der Gesellschaft übertragen werden dür-
+                          fen;
+                     3.   die Gesellschaft nach ihrer Anmeldung beim Handelsregister-
+                          amt sofort als Eigentümerin frei darüber verfügen kann oder
+3      SR …; BBl 2006 9315
+                                                                                  1753
+"
+"Obligationenrecht
+                         im Falle eines Grundstückes einen bedingungslosen Anspruch
+                         auf Eintrag in das Grundbuch erhält;
+                   4.    sie durch Übertragung auf Dritte verwertet werden können;
+                   5.    ein Gründungsbericht mit Prüfungsbestätigung vorliegt.
+                2 Die Sacheinlage ist schriftlich zu vereinbaren. Der Vertrag ist öffent-
+                lich zu beurkunden, wenn dies für die Übertragung des Gegenstandes
+                vorgeschrieben ist.
+                3 Eine einzige öffentliche Urkunde genügt auch dann, wenn Grund-
+                stücke, die Gegenstand der Sacheinlage sind, in verschiedenen Kanto-
+                nen liegen. Die Urkunde muss durch eine Urkundsperson am Sitz der
+                Gesellschaft errichtet werden.
+                4 Die Statuten müssen den Gegenstand und dessen Bewertung sowie
+                den Namen des Einlegers und die ihm zukommenden Aktien angeben.
+                Die Generalversammlung kann entsprechende Statutenbestimmungen
+                nach zehn Jahren aufheben.
+                5 Der Gegenstand der Sacheinlage und die dafür ausgegebenen Aktien
+                müssen ins Handelsregister eingetragen werden.
+                Art. 634a
+c. Sachüber-    1 Übernimmt die Gesellschaft von Aktionären oder ihnen nahestehen-
+nahmen
+                den Personen Vermögenswerte oder beabsichtigt sie, solche Ver-
+                mögenswerte zu übernehmen, so müssen die Statuten den Gegenstand,
+                den Namen des Veräusserers und die Gegenleistung der Gesellschaft
+                angeben. Der Gegenstand und die Gegenleistung müssen ins Handels-
+                register eingetragen werden.
+                2 Die Regelung der Sachübernahme findet nur Anwendung auf Ver-
+                mögenswerte, die Gegenstand einer Sacheinlage sein könnten.
+                3 Die Generalversammlung kann nach zehn Jahren Bestimmungen der
+                Statuten über Sachübernahmen aufheben. Die Bestimmungen über
+                Sachübernahmen können auch aufgehoben werden, wenn die Gesell-
+                schaft endgültig auf die Sachübernahme verzichtet.
+                4 Die Gesellschaft kann weitere Rechtsgeschäfte ins Handelsregister
+                eintragen lassen.
+                Art. 634b (neu)
+d. Leistung der 1 Die Einlagen können auch durch Verrechnung geleistet werden.
+Einlagen durch
+Verrechnung     Forderungen dürfen nur verrechnet werden, wenn die ihnen zugrunde
+                liegenden Leistungen Gegenstand einer Bareinlage oder einer Sach-
+                einlage sein könnten.
+                2 Im Falle einer Sanierung gilt die Verrechnung mit einer Forderung
+                auch dann als Deckung, wenn die Forderung nicht mehr voll durch
+                Aktiven gedeckt ist.
+1754
+"
+"Obligationenrecht
+                 3 Die Statuten müssen den Entstehungsgrund der zur Verrechnung
+                 gebrachten Forderung, den Namen des Einlegers und die ihm zukom-
+                 menden Aktien angeben.
+                 4 Die Bewertung der Forderung und die dafür ausgegebenen Aktien
+                 müssen ins Handelsregister eingetragen werden.
+                 5 Die Generalversammlung kann Bestimmungen der Statuten über
+                 Einlagen durch Verrechnung nach zehn Jahren aufheben.
+                 Art. 634c (neu)
+e. Nachträgliche 1 Der Verwaltungsrat beschliesst die nachträgliche Leistung von
+Leistung
+                 Einlagen auf nicht voll liberierten Aktien.
+                 2 Die nachträgliche Leistung kann in Geld, durch Sacheinlage oder
+                 durch Verrechnung erfolgen.
+                 Art. 634d (neu)
+f. Herabsetzung  1 Die Generalversammlung kann den Betrag der geleisteten Einlagen
+des Betrags der
+geleisteten      herabsetzen. Die Vorschriften über die Herabsetzung des Aktienkapi-
+Einlagen         tals finden entsprechend Anwendung.
+                 2 Die Mindesteinlage nach Artikel 632 darf nicht unterschritten wer-
+                 den.
+                 Art. 636 (neu)
+IV. Besondere    1 Werden bei der Gründung zugunsten der Gründer oder anderer
+Vorteile
+                 Personen besondere Vorteile ausbedungen, so sind die begünstigten
+                 Personen in den Statuten mit Namen aufzuführen. Der gewährte
+                 Vorteil ist nach Art, Inhalt und Wert genau zu bezeichnen.
+                 2 Die Art, der Inhalt und der Wert besonderer Vorteile müssen ins
+                 Handelsregister eingetragen werden.
+                 Art. 650
+K. Erhöhung und 1 Die Generalversammlung beschliesst über die ordentliche Erhöhung
+Herabsetzung
+des Aktien-      des Aktienkapitals.
+kapitals
+                 2 Der Beschluss der Generalversammlung muss öffentlich beurkundet
+I. Ordentliche
+Kapitalerhöhung werden und folgende Angaben enthalten:
+1. Beschluss der
+Generalver-         1. den gesamten Nennbetrag, um den das Aktienkapital erhöht
+sammlung
+                          werden soll, und der Betrag der darauf zu leistenden Einlagen;
+                    2.    Anzahl, Nennwert und Art der Aktien sowie Vorrechte, die
+                          mit einzelnen Kategorien verbunden sind;
+                    3.    den Ausgabebetrag oder die Ermächtigung an den Verwal-
+                          tungsrat, diesen festzusetzen, sowie den Beginn der Dividen-
+                          denberechtigung;
+                                                                                    1755
+"
+"Obligationenrecht
+                  4.   die Art der Einlagen;
+                  5.   bei Sacheinlagen: deren Gegenstand und Bewertung sowie den
+                       Namen des Sacheinlegers und die ihm zukommenden Aktien;
+                  6.   bei Einlagen durch Verrechnung: die zur Verrechnung
+                       gebrachte Forderung, den Namen des Einlegers und die ihm
+                       zukommenden Aktien;
+                  7.   bei Sachübernahmen: den Gegenstand, den Namen des Ver-
+                       äusserers und die Gegenleistung der Gesellschaft;
+                  8.   Inhalt und Wert von besonderen Vorteilen sowie die Namen
+                       der begünstigten Personen;
+                  9.   eine Beschränkung der Übertragbarkeit neuer Namenaktien;
+                  10. eine Einschränkung oder Aufhebung des Bezugsrechts und die
+                       Zuweisung nicht ausgeübter oder entzogener Bezugsrechte;
+                  11. die Voraussetzungen für die Ausübung vertraglich erworbener
+                       Bezugsrechte.
+               3 Der Verwaltungsrat muss die Kapitalerhöhung innerhalb von sechs
+               Monaten nach der Beschlussfassung der Generalversammlung beim
+               Handelsregisteramt zur Eintragung anmelden; ansonsten fällt der
+               Beschluss dahin.
+               Art. 651 und 651a
+               Aufgehoben
+               Art. 652 Randtitel und Abs. 3
+2. Aktien-     3 Enthält der Zeichnungsschein keine Befristung, so endet seine Ver-
+zeichnung
+               bindlichkeit sechs Monate nach der Unterzeichnung.
+               Art. 652a Randtitel, Abs. 1 Ziff. 1–3 und 5 sowie Abs. 4 (neu)
+3. Emissions-  1 Werden neue Aktien öffentlich zur Zeichnung angeboten, so muss
+prospekt
+               die Gesellschaft in einem Emissionsprospekt Aufschluss geben über:
+                  1.   den Inhalt des bestehenden Eintrags im Handelsregister, mit
+                       Ausnahme der Angaben über die zur Vertretung befugten Per-
+                       sonen;
+                  2.   die bisherige Höhe und Zusammensetzung des Aktienkapitals
+                       unter Angabe von Anzahl, Nennwert und Art der Aktien sowie
+                       der Vorrechte, die mit einzelnen Kategorien verbunden sind;
+                  3.   Bestimmungen der Statuten über eine bedingte Kapitaler-
+                       höhung und ein Kapitalband;
+1756
+"
+"Obligationenrecht
+                     5.   die letzte Jahresrechnung und Konzernrechnung mit dem
+                          Revisionsbericht und, wenn der Bilanzstichtag mehr als sechs
+                          Monate zurückliegt, über eine Zwischenbilanz;
+                 4 Ein Emissionsprospekt ist nicht erforderlich, wenn die Aktien aus-
+                 schliesslich qualifizierten Anlegern im Sinne von Artikel 10 Absatz 3
+                 des Kollektivanlagegesetzes vom 23. Juni 20064 zu Zeichnung ange-
+                 boten werden.
+                 Art. 652b Randtitel, Abs. 1bis, 4 und 5 (neu)
+4. Bezugsrecht   1bis Das Bezugsrecht ist gewahrt, wenn ein dem Bankengesetz vom
+                 8. November 19345 unterstelltes Institut oder ein dem Börsengesetz
+                 vom 24. März 19956 unterstellter Effektenhändler die Aktien mit der
+                 Verpflichtung zeichnet, sie den Aktionären gemäss ihrer bisherigen
+                 Beteiligung zum Bezug anzubieten.
+                 4 Die Ausübung des Bezugsrechts darf nicht in unsachlicher Weise
+                 erschwert werden.
+                 5 Der Ausgabebetrag darf nur dann wesentlich tiefer als der wirkliche
+                 Wert der Aktien festgesetzt werden, wenn das Bezugsrecht handelbar
+                 ist oder sämtliche Aktionäre dem Ausgabebetrag zustimmen.
+                 Art. 652c Randtitel
+5. Leistung der
+Einlagen
+                 Art. 652d Randtitel, Abs. 2
+6. Erhöhung aus  2 Die Deckung des Erhöhungsbetrags wird mit der Jahresrechnung
+Eigenkapital
+                 in der von den Aktionären genehmigten Fassung oder, wenn der
+                 Bilanzstichtag mehr als sechs Monate zurückliegt, mit einer geprüften
+                 Zwischenbilanz nachgewiesen.
+                 Art. 652e Randtitel
+7. Kapital-
+erhöhungsbericht
+                 Art. 652f Randtitel
+8. Prüfungs-
+bestätigung
+4      SR 951.31
+5      SR 952.0
+6      SR 954.1
+                                                                                 1757
+"
+"Obligationenrecht
+                  Art. 652g Randtitel, Abs. 3
+9. Anpassung      3 Aufgehoben
+der Statuten
+                  Art. 652h Randtitel, Abs. 1 und 2
+10. Eintragung in 1 Der Verwaltungsrat meldet die Statutenänderung und    seine Feststel-
+das Handels-
+register;         lungen beim Handelsregisteramt zur Eintragung an.
+Nichtigkeit
+vorher ausgege-   2 Aufgehoben
+bener Aktien
+                  Art. 653
+II. Bedingte      1 Die Generalversammlung kann eine bedingte Kapitalerhöhung
+Kapitalerhöhung
+1. Beschluss der
+                  durchführen, indem sie in den Statuten folgenden Personen Rechte auf
+General-          den Bezug neuer Aktien (Wandel- und Optionsrechte) einräumt:
+versammlung
+                     1.   den Aktionären;
+                     2.   den Gläubigern von Anleihens- oder ähnlichen Obligationen;
+                     3.   den Arbeitnehmern;
+                     4.   den Mitgliedern des Verwaltungsrats;
+                     5.   den Gläubigern.
+                  2 Die Gesellschaft kann auch Aktionären, Gläubigern von Anleihens-
+                  oder ähnlichen Obligationen, Arbeitnehmern und Mitgliedern des
+                  Verwaltungsrats von Gesellschaften, die demselben Konzern angehö-
+                  ren, Rechte auf den Bezug neuer Aktien einräumen.
+                  3 Der Verwaltungsrat muss den Beschluss der Generalversammlung
+                  innerhalb von 30 Tagen beim Handelsregisteramt zur Eintragung
+                  anmelden; ansonsten fällt der Beschluss dahin.
+                  4 Das Aktienkapital erhöht sich ohne Weiteres, sobald und soweit als
+                  die Wandel- oder Optionsrechte ausgeübt und die Einlagepflichten
+                  durch Einzahlung oder durch Verrechnung erfüllt werden.
+                  Art. 653b Abs. 1 Ziff. 4
+                  1 Die Statuten müssen angeben:
+                     4.   die Aufhebung oder Beschränkung der Bezugsrechte der bis-
+                          herigen Aktionäre, sofern die Optionsrechte nicht diesen zuge-
+                          teilt werden;
+                  Art. 653c
+4. Schutz der     1 Werden bei einer bedingten Kapitalerhöhung den Aktionären
+Aktionäre
+                  Optionsrechte eingeräumt, so finden die Vorschriften über das
+                  Bezugsrecht bei der ordentlichen Kapitalerhöhung Anwendung.
+1758
+"
+"Obligationenrecht
+                 2 Sollen bei einer bedingten Kapitalerhöhung Anleihens- oder ähnliche
+                 Obligationen, mit denen Wandel- oder Optionswerte verbunden sind,
+                 ausgegeben werden, so sind diese Obligationen vorweg den Aktionä-
+                 ren entsprechend ihrer bisherigen Beteiligung zur Zeichnung anzubie-
+                 ten.
+                 3 Dieses Vorwegzeichnungsrecht kann beschränkt oder aufgehoben
+                 werden, wenn:
+                    1.   ein wichtiger Grund vorliegt; oder
+                    2.   die Aktien an der Börse kotiert sind und die Anleihens- oder
+                         ähnlichen Obligationen zu angemessenen Bedingungen ausge-
+                         geben werden.
+                 4 Durch die für eine bedingte Kapitalerhöhung notwendige Aufhebung
+                 des Bezugsrechts oder durch eine Beschränkung oder Aufhebung des
+                 Vorwegzeichnungsrechts darf niemand in unsachlicher Weise begüns-
+                 tigt oder benachteiligt werden.
+                 Art. 653d Abs. 1
+                 1 Dem Aktionär, dem Mitglied des Verwaltungsrats, dem Arbeitneh-
+                 mer oder dem Gläubiger, dem ein Wandel- oder ein Optionsrecht zum
+                 Erwerb von Aktien zusteht, kann die Ausübung dieses Rechts nicht
+                 wegen einer Beschränkung der Übertragbarkeit der Namenaktien
+                 verwehrt werden, es sei denn, dies ist in den Statuten und im Emis-
+                 sionsprospekt vorbehalten.
+                 Art. 653f
+b. Prüfungs-     1 Nach Abschluss jedes Geschäftsjahres prüft ein zugelassener Revi-
+bestätigung
+                 sionsexperte, ob die Ausgabe der neuen Aktien dem Gesetz, den
+                 Statuten und gegebenenfalls dem Emissionsprospekt entsprochen hat.
+                 Er bestätigt das Ergebnis schriftlich.
+                 2 Der Verwaltungsrat kann eine frühere Prüfung anordnen.
+                 Art. 653g
+c. Anpassung der 1 Nach Eingang der Prüfungsbestätigung ändert der Verwaltungsrat
+Statuten
+                 die Statuten und stellt dabei fest:
+                    1.   Anzahl, Nennwert und Art der neu ausgegebenen Aktien;
+                    2.   gegebenenfalls Vorrechte, die mit einzelnen Aktienkategorien
+                         verbunden sind;
+                    3.   den Stand des Aktienkapitals am Schluss des Geschäftsjahres
+                         oder im Zeitpunkt der Prüfung.
+                 2 Die Beschlüsse über die Änderung der Statuten und über die Fest-
+                 stellungen sind öffentlich zu beurkunden. Die Urkundsperson hat die
+                                                                                 1759
+"
+"Obligationenrecht
+               Belege, die der Kapitalerhöhung zugrunde liegen einzeln zu nennen
+               und zu bestätigen, dass sie ihr und dem Verwaltungsrat vorgelegen
+               haben.
+               Art. 653i
+7. Streichung  1 Der Verwaltungsrat hebt die Statutenbestimmung über die bedingte
+               Kapitalerhöhung auf oder passt sie an, wenn:
+                  1.   die Wandel- oder die Optionsrechte erloschen sind;
+                  2.   keine Wandel- oder Optionsrechte eingeräumt worden sind;
+                  3.   alle oder ein Teil der Berechtigten auf die Ausübung der ihnen
+                       eingeräumten Wandel- oder Optionsrechte schriftlich verzich-
+                       tet haben.
+               2 Die Statuten dürfen nur geändert werden, wenn ein zugelassener
+               Revisionsexperte den Sachverhalt in einer Prüfungsbestätigung bestä-
+               tigt.
+               3 Die Statutenänderung ist öffentlich zu beurkunden. In der öffent-
+               lichen Urkunde stellt die Urkundsperson fest, dass die Bestätigung des
+               Revisors die verlangten Angaben enthält.
+               Art. 653j (neu)
+III. Herab-    1 Die Generalversammlung beschliesst über die Herabsetzung des
+setzung des
+Aktienkapitals Aktienkapitals. Der Verwaltungsrat bereitet die Herabsetzung vor und
+1. Ordentliche führt diese durch.
+Kapitalherab-
+setzung        2 Die Kapitalherabsetzung kann durch eine Herabsetzung des Nenn-
+a. Grundsätze  wertes oder durch die Vernichtung von Aktien erfolgen.
+               3 Das Aktienkapital darf nur unter 100 000 Franken herabgesetzt
+               werden, wenn es gleichzeitig mindestens bis zu diesem Betrag wieder
+               erhöht wird.
+               Art. 653k (neu)
+b. Gläubiger-  1 Soll das Aktienkapital herabgesetzt werden, so weist der Verwal-
+schutz
+               tungsrat die Gläubiger durch öffentliche Aufforderung darauf hin, dass
+               sie unter Anmeldung ihrer Forderungen Sicherstellung verlangen
+               können. Die Aufforderung muss dreimal im schweizerischen Han-
+               delsamtsblatt und überdies in der in den Statuten vorgesehenen Form
+               veröffentlicht werden.
+               2 Die Gesellschaft muss die Forderungen der Gläubiger sicherstellen,
+               wenn diese es innerhalb von einem Monat nach der dritten Veröffent-
+               lichung im schweizerischen Handelsamtsblatt verlangen.
+1760
+"
+"Obligationenrecht
+                 3 Die Pflicht zur Sicherstellung entfällt, wenn die Gesellschaft nach-
+                 weist, dass die Erfüllung der Forderung durch die Herabsetzung des
+                 Aktienkapitals nicht gefährdet wird.
+                 4 Anstatt eine Sicherheit zu leisten, kann die Gesellschaft die Forde-
+                 rung erfüllen, sofern die anderen Gläubiger nicht geschädigt werden.
+                 Art. 653l (neu)
+c. Zwischen-     1 Liegt der Bilanzstichtag im Zeitpunkt, in dem die Generalversamm-
+bilanz
+                 lung die Herabsetzung beschliesst, mehr als sechs Monate zurück, so
+                 muss die Gesellschaft eine Zwischenbilanz erstellen.
+                 2 Die Zwischenbilanz wird gemäss den Vorschriften und Grundsätzen
+                 für den Jahresabschluss erstellt unter Vorbehalt folgender Vorschrif-
+                 ten:
+                    1.    Eine körperliche Bestandesaufnahme ist nicht notwendig.
+                    2.    Die in der letzten Bilanz vorgenommenen Bewertungen brau-
+                          chen nur nach Massgabe der Bewegungen in den Geschäfts-
+                          büchern verändert zu werden; Abschreibungen, Wertberichti-
+                          gungen und Rückstellungen für die Zwischenzeit sowie
+                          wesentliche, aus den Büchern nicht ersichtliche Veränderun-
+                          gen der Werte müssen jedoch berücksichtigt werden.
+                 Art. 653m (neu)
+d. Prüfungs-     1 Ein zugelassener Revisionsexperte muss gestützt auf die Bilanz
+bestätigung
+                 schriftlich bestätigen, dass die Forderungen der Gläubiger nach der
+                 Herabsetzung des Aktienkapitals vollständig gedeckt sind.
+                 2 Die Prüfungsbestätigung des zugelassenen Revisionsexperten trägt
+                 den Ergebnissen der Aufforderung an die Gläubiger gemäss Arti-
+                 kel 653k Rechnung.
+                 3 Liegt die Prüfungsbestätigung im Zeitpunkt der Beschlussfassung
+                 durch die Generalversammlung bereits vor, so informiert der Verwal-
+                 tungsrat über das Ergebnis. Der zugelassene Revisionsexperte muss
+                 diesfalls an der Generalversammlung anwesend sein, wenn diese nicht
+                 durch einstimmigen Beschluss auf seine Anwesenheit verzichtet hat.
+                 Art. 653n (neu)
+e. Beschluss der Der Beschluss der Generalversammlung über die Herabsetzung des
+General-
+versammlung      Aktienkapitals muss öffentlich beurkundet werden und folgende
+                 Angaben enthalten:
+                    1.    den Nennbetrag, um den das Aktienkapital herabgesetzt wird;
+                    2.    die Art und Weise der Kapitalherabsetzung, namentlich die
+                          Tatsache, ob der Nennwert herabgesetzt oder Aktien vernich-
+                          tet werden;
+                                                                                  1761
+"
+"Obligationenrecht
+                    3.    die Verwendung der durch die Kapitalherabsetzung frei
+                          gewordenen Mittel.
+                 Art. 653o (neu)
+f. Anpassung der 1 Sind alle Voraussetzungen der Herabsetzung des Aktienkapitals
+Statuten;
+Eintragung in    erfüllt, so ändert der Verwaltungsrat die Statuten und stellt dabei fest,
+das Handels-
+register
+                 dass die Anforderungen des Gesetzes, der Statuten und des General-
+                 versammlungsbeschlusses eingehalten wurden.
+                 2 Die Beschlüsse über die Statuenänderung und über die Feststellun-
+                 gen des Verwaltungsrats sind öffentlich zu beurkunden. Die Urkunds-
+                 person hat die Belege, die der Kapitalherabsetzung zugrunde liegen,
+                 einzeln zu nennen und zu bestätigen, dass sie ihr und dem Verwal-
+                 tungsrat vorgelegen haben.
+                 3 Der Verwaltungsrat muss die Statutenänderung und seine Feststel-
+                 lungen innerhalb von 30 Tagen nach der Beschlussfassung beim
+                 Handelsregisteramt zur Eintragung anmelden.
+                 4 Das Handelsregisteramt darf die Kapitalherabsetzung nur im Han-
+                 delsregister eintragen, wenn die Prüfungsbestätigung den gesetzlich
+                 verlangten Inhalt aufweist und keine Vorbehalte angebracht werden.
+                 5 Durch Kapitalherabsetzung frei gewordene Mittel dürfen Aktionären
+                 erst nach der Eintragung der Kapitalherabsetzung im Handelsregister
+                 ausgerichtet werden.
+                 Art. 653p (neu)
+2. Gleichzeitige 1 Die Statuten müssen nicht angepasst werden, wenn:
+Herabsetzung
+und Herauf-         1.    der Betrag, um den das Aktienkapital herabgesetzt wird,
+setzung des
+Aktienkapitals            gleichzeitig bis zur bisherigen Höhe durch neues Kapital
+a. Grundsatz              ersetzt wird;
+                    2.    der Betrag der geleisteten Einlage unverändert beibehalten
+                          wird; und
+                    3.    die Anzahl und der Nennwert der Aktien unverändert beibe-
+                          halten werden.
+                 2 Die Bestimmungen über die ordentliche Kapitalherabsetzung sind in
+                 diesem Fall nicht anwendbar.
+                 Art. 653q (neu)
+b. Vernichtung   1 Wird das Aktienkapital zum Zwecke der Sanierung auf null herabge-
+von Aktien
+                 setzt und anschliessend wieder erhöht, so gehen die bisherigen Rechte
+                 der Aktionäre mit der Herabsetzung unter. Ausgegebene Aktien müs-
+                 sen vernichtet werden.
+1762
+"
+"Obligationenrecht
+                  2 Bei der Wiedererhöhung des Aktienkapitals steht den bisherigen
+                  Aktionären ein Bezugsrecht zu, das ihnen nicht entzogen werden
+                  kann.
+                  Art. 653r (neu)
+3. Kapitalherab- 1 Die Aufforderung      an die Gläubiger und die Sicherstellung ihrer
+setzung im Falle
+einer Unterbilanz Forderungen können     unterbleiben, wenn:
+                     1.   das Aktienkapital herabgesetzt wird, um eine durch Verluste
+                          entstandene Unterbilanz zu beseitigen; und
+                     2.   der Betrag, um den das Aktienkapital herabgesetzt wird, nicht
+                          höher ist als die zu beseitigende Unterbilanz.
+                  2 Die übrigen Bestimmungen über die ordentliche Kapitalherabset-
+                  zung kommen zur Anwendung.
+                  Art. 653s (neu)
+IV. Kapitalband   1 Die Generalversammlung kann den Verwaltungsrat in den Statuten
+1. Ermächtigung   ermächtigen, während einer Dauer von längstens drei Jahren das
+                  Aktienkapital im Rahmen eines Kapitalbandes zu verändern. Sie legt
+                  fest, wie weit der Verwaltungsrat das Aktienkapital erhöhen (Maxi-
+                  malkapital) und herabsetzen (Basiskapital) darf.
+                  2 Das Maximalkapital darf das im Handelsregister eingetragene
+                  Aktienkapital höchstens um die Hälfte überschreiten. Das Basiskapital
+                  darf das im Handelsregister eingetragene Aktienkapital um höchstens
+                  die Hälfte unterschreiten.
+                  3 Die Generalversammlung kann die Befugnisse des Verwaltungsrats
+                  beschränken. Sie kann insbesondere vorsehen, dass der Verwaltungs-
+                  rat das Aktienkapital nur erhöhen oder nur herabsetzen kann.
+                  4 Die Generalversammlung kann den Verwaltungsrat in den Statuten
+                  auch ermächtigen, im Rahmen des Kapitalbands eine bedingte Kapi-
+                  talerhöhung vorzunehmen.
+                  5 Der Verwaltungsrat muss den Ermächtigungsbeschluss der General-
+                  versammlung innerhalb von 30 Tagen nach der Beschlussfassung
+                  durch die Generalversammlung dem Handelsregisteramt zur Eintra-
+                  gung anmelden; ansonsten fällt der Beschluss dahin.
+                  6 Die Dauer der Ermächtigung des Verwaltungsrats beginnt mit der
+                  Beschlussfassung durch die Generalversammlung zu laufen.
+                  7 Der Ermächtigungsbeschluss muss öffentlich beurkundet werden.
+                                                                                  1763
+"
+"Obligationenrecht
+                 Art. 653t (neu)
+2. Statutarische 1 Wird ein Kapitalband eingeführt, so müssen die Statuten angeben:
+Grundlagen
+                    1.   das Maximal- und das Basiskapital;
+                    2.   die Dauer der Ermächtigung mit dem Datum, an dem die
+                         Ermächtigung endet;
+                    3.   Einschränkungen und Bedingungen der Ermächtigung;
+                    4.   Anzahl, Nennwert und Art der Aktien sowie die Vorrechte, die
+                         mit einzelnen Kategorien von Aktien verbunden sind;
+                    5.   Inhalt und Wert von besonderen Vorteilen sowie die Namen
+                         der begünstigten Personen;
+                    6.   Beschränkungen der Übertragbarkeit neuer Namenaktien;
+                    7.   die Einschränkung oder Aufhebung des Bezugsrechts bezie-
+                         hungsweise die wichtigen Gründe, bei denen der Verwaltungs-
+                         rat das Bezugsrecht einschränken oder aufheben kann sowie
+                         die Zuweisung nicht ausgeübter oder entzogener Bezugs-
+                         rechte;
+                    8.   die Voraussetzungen für die Ausübung vertraglich erworbener
+                         Bezugsrechte.
+                 2 Nach Ablauf der für die Ermächtigung festgelegten Dauer streicht
+                 der Verwaltungsrat die Bestimmungen über das Kapitalband aus den
+                 Statuten.
+                 Art. 653u (neu)
+3. Erhöhung und  1 Im Rahmen seiner Ermächtigung kann der Verwaltungsrat das
+Herabsetzung
+des Aktien-      Aktienkapital erhöhen und herabsetzen.
+kapitals inner-
+halb des         2 Wenn der Verwaltungsrat das Aktienkapital erhöht oder herabsetzt,
+Kapitalbands     macht er in einer öffentlichen Urkunde die erforderlichen Feststellun-
+                 gen und ändert darin die Statuten entsprechend. Er erlässt die notwen-
+                 digen Bestimmungen, soweit sie nicht im Ermächtigungsbeschluss der
+                 Generalversammlung enthalten sind.
+                 3 Nach jeder Erhöhung oder Herabsetzung des Aktienkapitals muss
+                 der Verwaltungsrat die aktuelle Höhe des Aktienkapitals innerhalb
+                 von 30 Tagen nach der Beschlussfassung beim Handelsregisteramt zur
+                 Eintragung anmelden.
+                 4 Im Übrigen gelten die Vorschriften über die ordentliche bezie-
+                 hungsweise die bedingte Kapitalerhöhung oder über die Kapitalherab-
+                 setzung sinngemäss.
+1764
+"
+"Obligationenrecht
+                 Art. 653v (neu)
+4. Erhöhung oder Setzt die Generalversammlung während der Dauer der Ermächtigung
+Herabsetzung
+des Aktien-      des Verwaltungsrats das ausgegebene Aktienkapital herauf oder herab,
+kapitals durch
+die General-
+                 so fällt der Beschluss über das Kapitalband dahin. Die Statuten sind
+versammlung      entsprechend anzupassen.
+                 Art. 653w (neu)
+5. Gläubiger-    1 Die Generalversammlung darf das Basiskapital nur tiefer festsetzen
+schutz
+                 als das im Handelsregister eingetragene Aktienkapital, wenn:
+                    1.    die Gläubiger nach Artikel 653k aufgefordert worden sind, ih-
+                          re Forderungen anzumelden; und
+                    2.    eine Prüfungsbestätigung nach Artikel 653m vorliegt.
+                 2 Wird das Kapitalband anlässlich der Gründung beschlossen, so
+                 findet Absatz 1 keine Anwendung.
+                 3 Setzt der Verwaltungsrat das Aktienkapital im Rahmen des Kapital-
+                 bands herab, so ist weder eine Aufforderung an die Gläubiger noch
+                 eine Prüfungsbestätigung erforderlich.
+                 4 Der Verwaltungsrat darf eine Herabsetzung im Rahmen des Kapital-
+                 bands nur durchführen, sofern die Forderungen der Gläubiger nicht
+                 dadurch gefährdet werden.
+                 Art. 653x (neu)
+6. Prüfungsbe-   1 Wurde das Aktienkapital herabgesetzt, so muss ein zugelassener
+stätigung
+                 Revisionsexperte nach Abschluss des Geschäftsjahres prüfen, ob die
+                 Forderungen der Gläubiger noch vollständig gedeckt sind. Er muss
+                 das Ergebnis schriftlich bestätigen.
+                 2 Der Verwaltungsrat muss die Prüfungsbestätigung innerhalb von drei
+                 Monaten nach Ablauf des Geschäftsjahres beim Handelsregisteramt
+                 einreichen.
+                 Art. 653y (neu)
+7. Angaben im    Im Anhang zur Jahresrechnung sind Angaben zu allen Kapitalerhö-
+Anhang zur
+Jahresrechnung   hungen und Kapitalherabsetzungen des Verwaltungsrats zu machen.
+                 Zudem ist auch der Inhalt der Prüfungsbestätigung des zugelassenen
+                 Revisionsexperten wiederzugeben.
+                 Art. 656a Abs. 4 (neu)
+                 4 Partizipationskapital kann bei der Gründung, durch ordentliche
+                 Kapitalerhöhung, durch bedingte Kapitalerhöhung oder, sofern die
+                 Generalversammlung dies vorsieht im Rahmen eines Kapitalbands
+                 geschaffen werden.
+                                                                                 1765
+"
+"Obligationenrecht
+               Art. 656b
+II. Partizipa- 1 Bei Gesellschaften, deren Partizipationsscheine an der Börse kotiert
+tions- und
+Aktienkapital  sind, kann die Höhe des Partizipationskapitals unabhängig von der
+               Höhe des Aktienkapitals festgelegt werden. Bei den übrigen Gesell-
+               schaften darf das Partizipationskapital das Doppelte des Aktienkapi-
+               tals nicht übersteigen.
+               2 Die Bestimmungen über das Mindestkapital und über die Mindest-
+               gesamteinlage finden keine Anwendung.
+               3 Das Partizipationskapital ist dem Aktienkapital zuzurechnen bei:
+                  1.    der Bildung der gesetzlichen Gewinnreserve (Art. 672);
+                  2.    der Beurteilung, ob ein Kapitalverlust im Sinne von Arti-
+                        kel 725 vorliegt;
+                  3.    der Beschränkung der bedingten Kapitalerhöhung (Art. 653a);
+                  4.    der Festlegung des Basis- und Maximalkapitals beim Kapital-
+                        band (Art. 653s).
+               4 Die vorgesehenen Grenzwerte sind für Aktionäre und Partizipanten
+               gesondert zu berechnen bei:
+                  1.    der Einleitung einer Sonderuntersuchung gegen den Willen
+                        der Generalversammlung;
+                  2.    der Auflösungsklage.
+               5 Die Berechnung der vorgesehenen Grenzwerte erfolgt:
+                  1.    für den Erwerb eigener Aktien auf der Grundlage der ausge-
+                        gebenen Aktien;
+                  2.    für den Erwerb von Partizipationsscheinen auf der Grundlage
+                        der ausgegebenen Partizipationsscheine.
+               6 Die vorgesehenen Grenzwerte sind ausschliesslich auf der Grundlage
+               des Aktienkapitals zu berechnen:
+                  1.    beim Recht auf Einberufung der Generalversammlung;
+                  2.    beim Traktandierungsrecht.
+               Art. 656c Abs. 3
+               3 Unter den gleichen Voraussetzungen wie der Aktionär hat der Parti-
+               zipant ein Recht auf Einleitung einer Sonderuntersuchung. Sehen die
+               Statuten keine weitergehenden Rechte vor, so kann der Partizipant
+               Begehren um Auskunft, Einsicht und Einleitung einer Sonderunter-
+               suchung schriftlich zuhanden der Generalversammlung stellen.
+1766
+"
+"Obligationenrecht
+                 Art. 656d Randtitel und Abs. 2
+2. Information   2 Den Partizipanten ist innerhalb von 20 Tagen nach der Generalver-
+über General-
+versammlungs-    sammlung das Protokoll auf elektronischem Weg zugänglich zu
+beschlüsse       machen oder es ist jedem Partizipanten auf dessen Wunsch kostenlos
+                 eine Kopie des Protokolls zuzustellen. Die Partizipanten sind in der
+                 Bekanntgabe darauf hinzuweisen.
+                 Art. 659
+N. Eigene Aktien 1 Die Gesellschaft darf eigene  Aktien nur dann erwerben, wenn frei
+I. Einschränkung verwendbares Eigenkapital in     der Höhe der dafür nötigen Mittel
+des Erwerbs
+                 vorhanden ist.
+                 2 Der Erwerb eigener Aktien ist auf 10 Prozent des Aktienkapitals
+                 beschränkt.
+                 3 Steht der Erwerb im Zusammenhang mit einer Übertragbarkeits-
+                 beschränkung oder einer Auflösungsklage, so beträgt die Höchst-
+                 grenze 20 Prozent. Die über 10 Prozent hinaus erworbenen Aktien
+                 sind innert zweier Jahre zu veräussern oder durch Kapitalherabsetzung
+                 zu vernichten.
+                 Art. 659a
+II. Folgen des   1 Erwirbt eine Gesellschaft eigene Aktien, so ruhen für diese Aktien
+Erwerbs
+                 das Stimmrecht und die damit verbundenen Rechte.
+                 2 Das Stimmrecht und die damit verbundenen Rechte ruhen auch
+                 dann, wenn die Gesellschaft eigene Aktien überträgt und die Rück-
+                 nahme oder die Rückgabe entsprechender Aktien vereinbart wird.
+                 3 Wird das Stimmrecht entgegen den Absätzen 1 und 2 ausgeübt, so
+                 findet Artikel 691 Absatz 3 Anwendung.
+                 4 Die Gesellschaft hat für die eigenen Aktien einen dem Anschaf-
+                 fungswert entsprechenden Betrag von den Gewinnreserven abzuzie-
+                 hen. Die Darstellung in der Bilanz richtet sich nach Artikel 959a
+                 Absatz 2 Ziffer 3.
+                 Art. 662–670
+                 Aufgehoben
+                 Art. 671
+C. Reserven      1 Der gesetzlichen Kapitalreserve sind zuzuweisen:
+I. Gesetzliche
+Kapitalreserve      1.   der Erlös, der bei der Ausgabe von Aktien über den Nennwert
+                         und die Ausgabekosten hinaus erzielt wird (Aufgeld);
+                                                                                  1767
+"
+"Obligationenrecht
+                    2.   die zurückbehaltene Einzahlung auf Aktien, soweit für die
+                         dafür neu ausgegebenen Aktien kein Mindererlös erzielt wird
+                         (Kaduzierungsgewinn);
+                    3.   weitere durch Inhaber von Beteiligungspapieren geleistete
+                         Einlagen und Zuschüsse;
+                    4.   der aus der Kapitalherabsetzung sich ergebende Buchgewinn,
+                         soweit er nicht zur Abschreibung gefährdeter Aktiven oder zu
+                         Rückstellungen für solche Aktiven beansprucht wird.
+                 2 Die gesetzliche Kapitalreserve darf nur verwendet werden:
+                    1.   zur Deckung von Verlusten;
+                    2.   für Massnahmen zur Weiterführung des Unternehmens bei
+                         schlechtem Geschäftsgang;
+                    3.   zur Bekämpfung der Arbeitslosigkeit und Milderung ihrer
+                         Folgen.
+                 Art. 671a und Art. 671b
+                 Aufgehoben
+                 Art. 672
+II. Gesetzliche  1 5 Prozent des Jahresgewinns sind der gesetzlichen Reserve aus
+Gewinnreserve
+                 Gewinnen (gesetzliche Gewinnreserve) zuzuweisen. Liegt ein Ver-
+                 lustvortrag vor, so ist dieser vor der Zuweisung an die Reserve zu
+                 decken.
+                 2 Die gesetzliche Gewinnreserve ist zu äufnen, bis sie 50 Prozent des
+                 im Handelsregister eingetragenen Aktienkapitals erreicht. Bei Gesell-
+                 schaften, deren Zweck hauptsächlich in der Beteiligung an anderen
+                 Unternehmen besteht (Holdinggesellschaften), ist die gesetzliche
+                 Gewinnreserve zu äufnen, bis sie 20 Prozent des eingetragenen
+                 Aktienkapitals erreicht.
+                 3 Für die Verwendung der gesetzlichen Gewinnreserve gilt Artikel 671
+                 Absatz 2.
+                 4 Die Dividende darf erst festgesetzt werden, nachdem die Zuweisung
+                 an die gesetzliche Gewinnreserve erfolgt ist.
+                 Art. 673
+III. Freiwillige 1 Die Generalversammlung kann in den Statuten oder durch Beschluss
+Gewinnreserven
+                 die Bildung freiwilliger Reserven aus Gewinnen (freiwillige Gewinn-
+                 reserven) vorsehen.
+                 2 Freiwillige Gewinnreserven dürfen nur gebildet werden, wenn das
+                 dauernde Gedeihen des Unternehmens unter Berücksichtigung der
+                 Interessen aller Aktionäre dies rechtfertigt.
+1768
+"
+"Obligationenrecht
+                3 Unter Vorbehalt von Artikel 674 regelt die Generalversammlung die
+                Verwendung freiwilliger Gewinnreserven.
+                4 Die Dividende darf erst festgesetzt werden, nachdem die Zuweisung
+                an die freiwilligen Gewinnreserven erfolgt ist.
+                Art. 674
+IV. Verrechnung 1 Verluste müssen in folgender Reihenfolge verrechnet werden mit:
+mit Verlusten
+                    1.  dem Gewinnvortrag;
+                    2.  den freiwilligen Gewinnreserven;
+                    3.  der gesetzlichen Gewinnreserve;
+                    4.  der gesetzlichen Kapitalreserve.
+                2 Anstelle der Verrechnung mit der gesetzlichen Gewinnreserve oder
+                der gesetzlichen Kapitalreserve dürfen verbleibende Verluste auch
+                teilweise oder ganz auf die neue Jahresrechnung vorgetragen werden.
+                Art. 675a (neu)
+II. Zwischen-   1 Die Generalversammlung kann die Ausrichtung einer Zwischendivi-
+dividenden
+                dende beschliessen, sofern:
+                    1.  die Statuten dies vorsehen; und
+                    2.  eine Zwischenbilanz vorliegt, die nicht älter als sechs Monate
+                        ist.
+                2 Bei Gesellschaften, die eine Revision durchführen, muss die Zwi-
+                schenbilanz vor dem Beschluss der Generalversammlung durch die
+                Revisionsstelle geprüft werden. Die Prüfung erfolgt nach den Vor-
+                schriften zur eingeschränkten Revision.
+                3 Die Bestimmungen zu den Dividenden finden Anwendung (Art. 660
+                Abs. 1 und 3, 661, 671 - 674, 675 Abs. 2, 677, 678 sowie 958e).
+                Art. 676 Randtitel
+III. Bauzinse
+                Art. 677 Randtitel
+IV. Tantiemen
+                Art. 678
+E. Rück-        1 Aktionäre, Mitglieder des Verwaltungsrats und der Geschäftsleitung
+erstattung von
+Leistungen      sowie diesen nahestehende Personen, die ungerechtfertigt Dividenden,
+I. Im           Tantiemen, andere Gewinnanteile oder Bauzinse bezogen haben, sind
+Allgemeinen
+                zur Rückerstattung verpflichtet.
+                                                                                 1769
+"
+"Obligationenrecht
+               2 Sie sind auch zur Rückerstattung anderer Leistungen der Gesell-
+               schaft verpflichtet, soweit diese in einem offensichtlichen Missver-
+               hältnis zur erbrachten Gegenleistung und zur Ertragslage der Gesell-
+               schaft stehen.
+               3 Artikel 64 findet Anwendung.
+               4 Der Anspruch auf Rückerstattung steht der Gesellschaft und dem
+               Aktionär zu; dieser klagt auf Leistung an die Gesellschaft.
+               5 Die Pflicht zur Rückerstattung verjährt fünf Jahre nach Empfang der
+               Leistung.
+               Art. 680
+F. Leistungs-  1 Den Aktionären können durch die Gesellschaft nur Pflichten aufer-
+pflicht des
+Aktionärs      legt werden, die im Gesetz vorgesehen sind.
+I. Gegenstand  2 Für den Bezug der Aktien darf nicht mehr gefordert werden als der
+               bei der Ausgabe der Aktien festgesetzte Betrag.
+               3 Ein Recht, den eingezahlten Betrag zurückzufordern, steht dem
+               Aktionär nicht zu.
+               Art. 685d Abs. 2
+               2 Die Gesellschaft kann einen Erwerber zudem ablehnen, wenn dieser
+               auf ihr Verlangen nicht ausdrücklich erklärt, dass er die Aktien im
+               eigenen Namen und auf eigene Rechnung erworben hat und keine
+               Vereinbarung über die Rücknahme oder die Rückgabe entsprechender
+               Aktien besteht.
+               Art. 689 Abs. 2
+               2 Er kann seine Aktien in der Generalversammlung selbst vertreten
+               oder durch einen Dritten vertreten lassen.
+               Art. 689a Abs. 1bis und 3 (neu)
+               1bis Der Verwaltungsrat kann bestimmen, dass anstelle einer schrift-
+               lichen Vollmacht eine elektronische Vollmacht mit einer qualifizierten
+               elektronischen Signatur bei der Gesellschaft eingereicht werden kann.
+               3 Wer eine Inhaberaktie aufgrund einer Verpfändung, Hinterlegung
+               oder leihweisen Überlassung besitzt, darf die Mitgliedschaftsrechte
+               nur ausüben, wenn er vom Aktionär dazu schriftlich bevollmächtigt
+               ist.
+               Art. 689b Abs. 2
+               Aufgehoben
+1770
+"
+"Obligationenrecht
+                Art. 689c
+b. In Gesell-   1 Gesellschaften mit börsenkotierten Aktien setzen vor jeder General-
+schaften mit
+börsenkotierten versammlung einen oder mehrere unabhängige Stimmrechtsvertreter
+Aktien          ein.
+                2 Die Erteilung von Dauervollmachten zugunsten des unabhängigen
+                Stimmrechtsvertreters durch den Aktionär ist nicht zulässig.
+                3 Hat der unabhängige Stimmrechtsvertreter keine Weisungen zu
+                angekündigten Anträgen erhalten, so enthält er sich der Stimme.
+                4 Werden in der Generalversammlung nicht angekündigte Anträge
+                gestellt, so übt er das Stimmrecht gemäss den Empfehlungen des
+                Verwaltungsrats aus, sofern der Aktionär für diesen Fall nicht eine
+                andere Weisung erteilt hat.
+                5 Eine institutionelle Stimmrechtsvertretung darf nur durch unabhän-
+                gige Stimmrechtsvertreter erfolgen.
+                Art. 689d
+c. In Gesell-   1 Die Statuten von Gesellschaften, deren Aktien nicht an der Börse
+schaften ohne
+börsenkotierte  kotiert sind, können vorsehen, dass ein Aktionär nur durch einen
+Aktien          anderen Aktionär in der Generalversammlung vertreten werden kann.
+                2 Macht die Gesellschaft von dieser Möglichkeit Gebrauch, so muss
+                sie auf Verlangen eines Aktionärs eine unabhängige Person bezeich-
+                nen, die mit der Vertretung in der Generalversammlung beauftragt
+                werden kann.
+                3 Der Aktionär muss sein Gesuch um Ernennung eines unabhängigen
+                Stimmrechtsvertreters spätestens 14 Tage vor dem bekannt gegebenen
+                Termin der Generalversammlung bei der Gesellschaft einreichen.
+                4 Die Gesellschaft muss spätestens 8 Tage vor dem bekannt gegebenen
+                Termin der Generalversammlung den Namen und die Adresse des
+                unabhängigen Stimmrechtsvertreters allen Aktionären schriftlich
+                bekannt geben.
+                5 Kommt die Gesellschaft ihrer Pflicht zur Ernennung eines unabhän-
+                gigen Stimmrechtsvertreters nicht nach, so kann sich der Aktionär
+                durch einen beliebigen Dritten an der Generalversammlung vertreten
+                lassen.
+                6 Artikel 689c Absätze 3–5 finden Anwendung.
+                Art. 689e Abs. 1 erster Satz sowie Abs. 2 erster Satz
+                1 Der unabhängige Stimmrechtsvertreter gibt der Gesellschaft Anzahl,
+                Art, Nennwert und Kategorie der von ihm vertretenen Aktien bekannt.
+                …
+                2 Der Vorsitzende teilt die Angaben der Generalversammlung mit. …
+                                                                                1771
+"
+"Obligationenrecht
+               Art. 692 Abs. 3
+               Aufgehoben
+               Art. 693 Abs. 3 Ziff. 3–4 sowie Ziff. 5 (neu)
+               3 Die Bemessung des Stimmrechts nach der Zahl der Aktien ist nicht
+               anwendbar für:
+                  1.   Betrifft nur französischen Text;
+                  2.   Betrifft nur französischen Text;
+                  3.   die Einleitung einer Sonderuntersuchung;
+                  4.   die Anhebung einer Verantwortlichkeitsklage;
+                  5.   die Anhebung einer Klage auf Rückerstattung einer ungerecht-
+                       fertigten Leistung.
+               Art. 696 Abs. 3
+               3 Jeder Aktionär kann noch während eines Jahres nach der General-
+               versammlung von der Gesellschaft die Zustellung des Geschäfts-
+               berichts in der von der Generalversammlung genehmigten Form sowie
+               des Revisionsberichts verlangen. Die Zustellung ist kostenlos.
+               Art. 697 Randtitel, Abs. 2–4
+2. Auskunft    2 Bei Gesellschaften, deren Aktien nicht an der Börse kotiert sind,
+               kann jeder Aktionär zudem vom Verwaltungsrat jederzeit schriftlich
+               Auskunft über die Angelegenheiten der Gesellschaft verlangen. Der
+               Verwaltungsrat muss innert 90 Tagen schriftlich Auskunft erteilen.
+               Die erteilten Antworten sind an der nächsten Generalversammlung zur
+               Einsicht aufzulegen oder umgehend elektronisch zu publizieren.
+               3 Die Auskunft nach den Absätzen 1 und 2 muss erteilt werden, soweit
+               sie für die Ausübung der Aktionärsrechte erforderlich ist und keine
+               Geschäftsgeheimnisse oder andere vorrangige Interessen der Gesell-
+               schaft gefährdet werden. Die Verweigerung der Auskunft ist schrift-
+               lich zu begründen.
+               4 Aufgehoben
+               Art. 697bis (neu)
+3. Einsicht    1 Die Geschäftsbücher und die Korrespondenzen können von jedem
+               Aktionär eingesehen werden, sofern die Generalversammlung oder der
+               Verwaltungsrat dies beschliesst.
+               2 Die Einsicht muss gewährt werden, soweit sie für die Ausübung der
+               Aktionärsrechte erforderlich ist und keine Geschäftsgeheimnisse oder
+               andere vorrangige Interessen der Gesellschaft gefährdet sind. Eine
+1772
+"
+"Obligationenrecht
+                  Verweigerung der Einsichtnahme ist durch den Verwaltungsrat
+                  schriftlich zu begründen.
+                  3 Unter den gleichen Voraussetzungen kann jeder Aktionär einer
+                  Konzernobergesellschaft in die Geschäftsbücher und Korrespondenz
+                  einer Konzernuntergesellschaft Einsicht nehmen.
+                  Art. 697ter (neu)
+4. Ablehnung      Wird die Auskunft oder die Einsicht ungerechtfertigterweise verwei-
+des Begehrens
+um Auskunft       gert, so kann jeder Aktionär vom Gericht die Anordnung der Auskunft
+oder Einsicht     oder Einsicht verlangen.
+                  Art. 697quater (neu)
+5. Besondere      1 Gesellschaften, deren Aktien an einer Börse kotiert sind, haben im
+Informationen
+a. Gesellschaften
+                  Anhang der Jahresrechnung anzugeben:
+mit börsen-
+kotierten Aktien     1.    alle Vergütungen, die sie direkt oder indirekt an gegenwärtige
+                           Mitglieder des Verwaltungsrates ausgerichtet haben;
+                     2.    alle Vergütungen, die sie direkt oder indirekt an Personen aus-
+                           gerichtet haben, die vom Verwaltungsrat ganz oder zum Teil
+                           mit der Geschäftsführung betraut sind (Geschäftsleitung),
+                           sowie die Dauer der Verträge, die den Vergütungen zugrunde
+                           liegen;
+                     3.    alle Vergütungen, die sie direkt oder indirekt an gegenwärtige
+                           Mitglieder des Beirats ausgerichtet haben;
+                     4.    Vergütungen, die sie direkt oder indirekt an frühere Mitglieder
+                           des Verwaltungsrats, der Geschäftsleitung und des Beirats
+                           ausgerichtet haben, sofern sie in einem Zusammenhang mit
+                           der früheren Tätigkeit als Organ der Gesellschaft stehen oder
+                           nicht marktüblich sind;
+                     5.    nicht marktübliche Vergütungen, die sie direkt oder indirekt
+                           an Personen ausgerichtet haben, die den in den Ziffern 1–4
+                           genannten Personen nahestehen.
+                  2 Als Vergütungen gelten insbesondere:
+                     1.    Honorare, Löhne, Bonifikationen und Gutschriften;
+                     2.    Tantiemen, Beteiligungen am Umsatz und andere Beteiligun-
+                           gen am Geschäftsergebnis;
+                     3.    Sachleistungen;
+                     4.    die Zuteilung von Beteiligungen, Wandel- und Optionsrech-
+                           ten;
+                     5.    Abgangsentschädigungen;
+                     6.    Bürgschaften, Garantieverpflichtungen, Pfandbestellungen
+                           zugunsten Dritter und andere Sicherheiten;
+                                                                                     1773
+"
+"Obligationenrecht
+                     7.   der Verzicht auf Forderungen;
+                     8.   Aufwendungen, die Ansprüche          auf   Vorsorgeleistungen
+                          begründen oder erhöhen;
+                     9.   sämtliche Leistungen für zusätzliche Arbeiten.
+                  3 Im Anhang der Jahresrechnung sind zudem anzugeben:
+                     1.   alle Darlehen und Kredite, die den gegenwärtigen Mitgliedern
+                          des Verwaltungsrates, der Geschäftsleitung und des Beirats
+                          gewährt wurden und noch ausstehen;
+                     2.   Darlehen und Kredite, die zu nicht marktüblichen Bedingun-
+                          gen an frühere Mitglieder des Verwaltungsrates, der
+                          Geschäftsleitung und des Beirats gewährt wurden und noch
+                          ausstehen;
+                     3.   Darlehen und Kredite, die zu nicht marktüblichen Bedingun-
+                          gen an Personen, die den in den Ziffern 1 und 2 genannten
+                          Personen nahestehen, gewährt wurden und noch ausstehen.
+                  4 Die Angaben zu Vergütungen und Krediten müssen umfassen:
+                     1.   den Gesamtbetrag für den Verwaltungsrat und den auf jedes
+                          Mitglied entfallenden Betrag unter Nennung des Namens und
+                          der Funktion des betreffenden Mitglieds;
+                     2.   den Gesamtbetrag für die Geschäftsleitung und den höchsten
+                          auf ein Mitglied entfallenden Betrag unter Nennung des
+                          Namens und der Funktion des betreffenden Mitglieds;
+                     3.   den Gesamtbetrag für den Beirat und den auf jedes Mitglied
+                          entfallenden Betrag unter Nennung des Namens und der Funk-
+                          tion des betreffenden Mitglieds.
+                  5 Vergütungen und Kredite an nahestehende Personen sind gesondert
+                  auszuweisen. Die Namen der nahestehenden Personen müssen nicht
+                  angegeben werden. Im Übrigen finden die Vorschriften über die
+                  Angaben zu Vergütungen und Krediten an Mitglieder des Verwal-
+                  tungsrats, der Geschäftsleitung und des Beirats entsprechende
+                  Anwendung.
+                  Art. 697quinquies (neu)
+b. Gesellschaften 1 Bei Gesellschaften, deren Aktien nicht an der Börse kotiert sind,
+ohne börsen-
+kotierte Aktien   kann  jeder Aktionär vom Verwaltungsrat Auskunft über die Vergü-
+                  tungen, Darlehen und Kredite gemäss Artikel 697quater verlangen.
+                  2 Der Verwaltungsrat muss die Auskunft dem Aktionär innerhalb von
+                  45 Tagen erteilen.
+1774
+"
+"Obligationenrecht
+                 Art. 697sexies (neu)
+c. Beteiligungs- 1 Gesellschaften, deren Aktien an einer Börse kotiert sind, haben im
+verhältnisse bei
+Gesellschaften   Anhang zur Bilanz bedeutende Aktionäre und deren Beteiligungen
+mit börsen-
+kotierten Aktien
+                 anzugeben, sofern diese ihnen bekannt sind oder bekannt sein müss-
+                 ten.
+                 2 Als bedeutende Aktionäre gelten Aktionäre und stimmrechtsverbun-
+                 dene Aktionärsgruppen, deren Beteiligung 3 Prozent aller Stimm-
+                 rechte übersteigt. Enthalten die Statuten eine tiefere prozentmässige
+                 Begrenzung der Namenaktien (Art. 685d Abs. 1), so gilt für die
+                 Bekanntgabepflicht diese Grenze.
+                 3 Anzugeben sind weiter die Beteiligungen an der Gesellschaft sowie
+                 die Wandel- und Optionsrechte jedes gegenwärtigen Mitglieds des
+                 Verwaltungsrates, der Geschäftsleitung und des Beirates mit Ein-
+                 schluss der Beteiligungen der ihm nahestehenden Personen unter
+                 Nennung des Namens und der Funktion des betreffenden Mitglieds.
+                 Art. 697a Abs. 2
+                 2 Entspricht die Generalversammlung dem Antrag, so kann die Gesell-
+                 schaft oder jeder Aktionär innert 30 Tagen bei Gericht beantragen,
+                 unabhängige Sachverständige zu bezeichnen, welche die Sonderunter-
+                 suchung durchführen.
+                 Art. 697b
+2. Bei Ab-       1 Entspricht die Generalversammlung dem Antrag nicht, so können
+lehnung durch
+die General-     Aktionäre innerhalb von drei Monaten vom Gericht die Anordnung
+versammlung      einer Sonderuntersuchung verlangen, sofern sie zusammen mindestens
+                 über eine der folgenden Beteiligungen verfügen:
+                    1.    bei Gesellschaften mit börsenkotierten Aktien:
+                          a. 0,5 Prozent des Aktienkapitals oder der Stimmen; oder
+                          b. Aktien im Nennwert von 1 Million Franken.
+                    2.    bei Gesellschaften ohne börsenkotierte Aktien:
+                          a. 5 Prozent des Aktienkapitals oder der Stimmen; oder
+                          b. Aktien im Nennwert von 250'000 Franken.
+                 2 Das Begehren auf Anordnung einer Sonderuntersuchung kann sich
+                 auf alle Fragen erstrecken:
+                    1.    die Gegenstand des Begehrens um Auskunft oder Einsicht
+                          waren; oder
+                    2.    die in der Diskussion des Antrags auf Sonderuntersuchung in
+                          der Generalversammlung angesprochen wurden, soweit ihre
+                          Beantwortung für die Ausübung der Aktionärsrechte erforder-
+                          lich ist.
+                                                                                 1775
+"
+"Obligationenrecht
+                 3 Das Gericht ordnet die Sonderuntersuchung an, wenn die Gesuch-
+                 steller glaubhaft machen, dass:
+                    1.    Gründer oder Organe Gesetz oder Statuten verletzt haben; und
+                    2.    die Verletzung die Gesellschaft oder die Aktionäre schädigen
+                          kann.
+                 Art. 697c
+3. Verfahren vor 1 Das Gericht entscheidet nach Anhörung der Gesellschaft und des
+Gericht
+                 Aktionärs, der den Antrag auf eine Sonderuntersuchung in der Gene-
+                 ralversammlung gestellt hat.
+                 2 Entspricht das Gericht dem Begehren, so bezeichnet es die mit der
+                 Sonderuntersuchung betrauten unabhängigen Sachverständigen und
+                 umschreibt den Prüfungsgegenstand.
+                 Art. 697d Randtitel, Abs. 2–4
+4. Durchführung  2 Gründer, Organe, Beauftragte, Arbeitnehmer, Sachwalter und Liqui-
+der Sonderunter-
+suchung          datoren müssen den Sachverständigen Auskunft über alle erheblichen
+                 Tatsachen erteilen. Im Streitfall entscheidet das Gericht.
+                 3 Die Sachverständigen hören die Gesellschaft zu den Ergebnissen der
+                 Sonderuntersuchung an.
+                 4 Sie sind zur Geheimhaltung verpflichtet.
+                 Art. 697e
+5. Bericht       1 Die Sachverständigen berichten einlässlich über das Ergebnis ihrer
+                 Prüfung, wahren aber das Geschäftsgeheimnis. Sie legen ihren Bericht
+                 dem Gericht vor.
+                 2 Das Gericht stellt den Bericht der Gesellschaft zu und entscheidet
+                 auf ihren Antrag, ob Teile des Berichtes das Geschäftsgeheimnis oder
+                 andere vorrangige Interessen der Gesellschaft verletzen und deshalb
+                 den Gesuchstellern nicht vorgelegt werden dürfen.
+                 3 Es gibt der Gesellschaft und den Gesuchstellern Gelegenheit, zum
+                 bereinigten Bericht Stellung zu nehmen und Ergänzungsfragen zu
+                 stellen.
+                 Art. 697g
+7. Kosten der    Die Gesellschaft trägt den Vorschuss und die Kosten der Sonderunter-
+Sonderunter-
+suchung          suchung.
+                 Art. 697h
+                 Aufgehoben
+1776
+"
+"Obligationenrecht
+                Art. 698 Abs. 2 Ziff. 3 und 5–7 (neu)
+                2 Ihr stehen folgende unübertragbare Befugnisse zu:
+                   3.    die Genehmigung des Lageberichts und der Konzernrechnung;
+                   5.    bei Ausrichtung einer Zwischendividende die Genehmigung
+                         der Zwischenbilanz und die Festsetzung der Zwischendivi-
+                         dende;
+                   6.    die Entlastung der Mitglieder des Verwaltungsrates;
+                   7.    die Beschlussfassung über die Gegenstände, die der General-
+                         versammlung durch das Gesetz oder die Statuten vorbehalten
+                         sind.
+                Art. 699 Randtitel, Abs. 3 und 4 sowie 5 und 6 (neu)
+II. Einberufung 3 Aktionäre können die Einberufung einer Generalversammlung
+und Durch-
+führung der     verlangen, sofern sie zusammen mindestens über eine der folgenden
+Generalver-
+sammlung
+                Beteiligungen verfügen:
+1. Einberufung     1.    bei Gesellschaften mit börsenkotierten Aktien:
+                         a. 2,5 Prozent des Aktienkapitals oder der Stimmen, oder
+                         b. Aktien im Nennwert von einer Million Franken;
+                   2.    bei Gesellschaften ohne börsenkotierte Aktien:
+                         a. 10 Prozent des Aktienkapitals oder der Stimmen, oder
+                         b. Aktien im Nennwert von einer Million Franken.
+                4 Die Einberufung einer Generalversammlung muss schriftlich ver-
+                langt werden, und die Verhandlungsgegenstände und Anträge müssen
+                im Begehren enthalten sein.
+                5 Entspricht der Verwaltungsrat dem Begehren nicht innerhalb einer
+                Frist von 60 Tagen, so ordnet das Gericht auf Begehren der Gesuch-
+                steller die Einberufung an.
+                6 Verlangt ein Aktionär nach Artikel 727a Absatz 4 eine einge-
+                schränkte Revision und kann der Geschäftsbericht nicht der ordent-
+                lichen Generalversammlung unterbreitet werden, so muss der
+                Verwaltungsrat innerhalb einer Frist von drei Monaten nach der
+                Durchführung der ordentlichen Generalversammlung eine zusätzliche
+                Generalversammlung einberufen und ihr den Geschäftsbericht zur
+                Genehmigung vorlegen.
+                Art. 699a (neu)
+2. Traktandie-  1 Aktionäre können die Traktandierung von Verhandlungsgegenstän-
+rung und
+Anträge         den verlangen, sofern sie zusammen mindestens über eine der folgen-
+                den Beteiligungen verfügen:
+                                                                               1777
+"
+"Obligationenrecht
+                  1.    bei Gesellschaften mit börsenkotierten Aktien:
+                        a. 0,25 Prozent des Aktienkapitals oder der Stimmen, oder
+                        b. Aktien im Nennwert von einer Million Franken;
+                  2.    bei Gesellschaften ohne börsenkotierte Aktien:
+                        a. 2,5 Prozent des Aktienkapitals oder der Stimmen, oder
+                        b. Aktien im Nennwert von 250'000 Franken.
+               2 Unter den gleichen Voraussetzungen können sie verlangen, dass
+               Anträge zu Verhandlungsgegenständen sowie eine kurze Begründung
+               dazu in die Einladung zur Generalversammlung aufgenommen wer-
+               den.
+               3 Begehren nach Absatz 1 und Absatz 2 müssen spätestens 50 Tage
+               vor der Generalversammlung schriftlich bei der Gesellschaft einge-
+               reicht werden.
+               4 Entspricht der Verwaltungsrat einem Begehren nicht, so ordnet das
+               Gericht die Traktandierung von Verhandlungsgegenständen oder die
+               Aufnahme von Anträgen in die Einladung zur Generalversammlung
+               an.
+               5 In der Generalversammlung kann jeder Aktionär Anträge im Rah-
+               men der traktandierten Verhandlungsgegenstände stellen.
+               Art. 700
+3. Form        1 Die Generalversammlung ist spätestens 20 Tage vor dem Versamm-
+               lungstag einzuberufen. Die Einberufung und weitere Unterlagen
+               dürfen dem Aktionär mit dessen Zustimmung elektronisch zugestellt
+               werden.
+               2 Im Rahmen der gesetzlichen Vorschriften bestimmen die Statuten
+               die Form der Einberufung.
+               3 In der Einberufung sind bekannt zu geben:
+                  1.    die Verhandlungsgegenstände;
+                  2.    die Anträge des Verwaltungsrats;
+                  3.    gegebenenfalls die Anträge der Aktionäre samt einer Zusam-
+                        menfassung der eingereichten Begründungen;
+                  4.    bei Gesellschaften, deren Aktien an der Börse kotiert sind, der
+                        Name und die Anschrift des unabhängigen Stimmrechtsvertre-
+                        ters sowie der prozentuale Anteil von Dispoaktien am Aktien-
+                        kapital.
+               4 Soweit die Statuten keine Bestimmungen zur Einholung der Zustim-
+               mung der Aktionäre nach Absatz 1 vorsehen, bestimmt der Verwal-
+               tungsrat die Modalitäten.
+1778
+"
+"Obligationenrecht
+                 5 Über Anträge zu nicht gehörig angekündigten Verhandlungsgegen-
+                 ständen können keine Beschlüsse gefasst werden; ausgenommen sind
+                 Anträge auf Einberufung einer ausserordentlichen Generalversamm-
+                 lung, auf Durchführung einer Sonderuntersuchung und auf Wahl einer
+                 Revisionsstelle infolge eines Begehrens eines Aktionärs.
+                 6 Zur Stellung von Anträgen im Rahmen der Verhandlungsgegen-
+                 stände und zu Verhandlungen ohne Beschlussfassung bedarf es keiner
+                 vorgängigen Ankündigung.
+                 Art. 701 Randtitel
+4. Universal-
+versammlung
+                 Art. 701a (neu)
+5. Tagungsort    1 Sehen die Statuten nichts anderes vor, bestimmt der Verwaltungsrat
+a. Im            den Tagungsort der Generalversammlung.
+Allgemeinen
+                 2 Die Generalversammlung kann an verschiedenen Orten gleichzeitig
+                 durchgeführt werden.
+                 3 Die Voten der Teilnehmer müssen in diesem Fall unmittelbar in Bild
+                 und Ton an sämtliche Tagungsorte übertragen werden.
+                 4 Bei mehreren Tagungsorten bestimmt der Verwaltungsrat den
+                 Haupttagungsort. Dieser ist massgebend für:
+                    1.   die Leitung der Generalversammlung durch den Vorsitzenden;
+                    2.   die öffentliche Beurkundung von Beschlüssen;
+                    3.   die Anwesenheit des Revisors.
+                 Art. 701b (neu)
+b. Ausländischer 1 Die Generalversammlung kann im Ausland durchgeführt werden,
+Tagungsort
+                 wenn:
+                    1.   die Statuten dies vorsehen; oder
+                    2.   die Eigentümer oder Vertreter sämtlicher Aktien damit einver-
+                         standen sind.
+                 2 Soweit die Statuten keine Bestimmungen zur Einholung der
+                 Zustimmung der Aktionäre vorsehen, bestimmt der Verwaltungsrat
+                 die Modalitäten.
+                 Art. 701c (neu)
+6. Verwendung    Die Aktionäre können ihre Rechte an der Generalversammlung auf
+elektronischer
+Mittel           elektronischem Weg ausüben, sofern:
+a. Ausübung der
+Aktionärsrechte
+                                                                                 1779
+"
+"Obligationenrecht
+                     1.   die Statuten dies vorsehen;
+                     2.   die Generalversammlung durch elektronische Mittel übertra-
+                          gen wird; und
+                     3.   die Voten der Aktionäre durch elektronische Mittel am
+                          Tagungsort übertragen werden.
+                  Art 701d (neu)
+b. Elektronische  1 Eine Generalversammlung kann ausschliesslich mit elektronischen
+Generalver-
+sammlung          Mitteln ohne Tagungsort durchgeführt werden, wenn:
+                     1.   die Eigentümer oder Vertreter sämtlicher Aktien damit einver-
+                          standen sind; und
+                     2.   die Beschlüsse der Generalversammlung keiner öffentlichen
+                          Beurkundung bedürfen.
+                  2 Die Voten der Teilnehmer müssen durch elektronische Mittel an den
+                  jeweiligen Aufenthaltsort aller Teilnehmer übertragen werden.
+                  3 Soweit die Statuten keine Bestimmungen zur Einholung der
+                  Zustimmung der Aktionäre nach Absatz 1 Ziffer 1 vorsehen, bestimmt
+                  der Verwaltungsrat die Modalitäten.
+                  Art. 701e (neu)
+c. Voraus-        Verwendet die Gesellschaft elektronische Mittel bei der Durchführung
+setzungen für die
+Verwendung        der Generalversammlung, so hat der Verwaltungsrat sicherzustellen,
+elektronischer
+Mittel
+                  dass:
+                     1.   die Identität der Teilnehmer und der Votanten eindeutig fest-
+                          steht;
+                     2.   jeder Teilnehmer Anträge stellen und sich an der Diskussion
+                          beteiligen kann;
+                     3.   das Abstimmungsergebnis nicht verfälscht werden kann.
+                  Art. 701f (neu)
+d. Technische     1 Kann die Generalversammlung aufgrund technischer Probleme nicht
+Probleme
+                  nach Massgabe des Gesetzes und der Statuten durchgeführt werden, so
+                  muss sie wiederholt werden.
+                  2 Verhandlungsgegenstände, über welche die Generalversammlung
+                  vor dem Auftreten der technischen Probleme beschlossen hat, müssen
+                  nicht erneut traktandiert werden.
+1780
+"
+"Obligationenrecht
+               Art. 702 Abs. 2 und 3
+               2 Er sorgt für die Führung des Protokolls. Dieses hält fest:
+                  1.   die Anzahl, die Art, den Nennwert und die Kategorie der
+                       Aktien, die vertreten werden, unter Angabe der vom unabhän-
+                       gigen Stimmrechtsvertreter vertretenen Aktien;
+                  2.   die Beschlüsse und die Wahlergebnisse unter Angabe der
+                       Stimmverhältnisse;
+                  3.   die in der Generalversammlung gestellten Begehren um Aus-
+                       kunft und die darauf erteilten Antworten;
+                  4.   die von den Aktionären zu Protokoll gegebenen Erklärungen;
+                  5.   die Verwendung elektronischer Mittel und die Angabe der
+                       Anzahl elektronisch abgegebener Stimmen;
+                  6.   die Zustimmung der Eigentümer oder der Vertreter sämtlicher
+                       Aktien zu einer elektronischen Generalversammlung;
+                  7.   das Auftreten technischer Probleme bei der Durchführung der
+                       Generalversammlung.
+               3 Den Aktionären ist innerhalb von 20 Tagen nach der Generalver-
+               sammlung das Protokoll auf elektronischem Weg zugänglich zu
+               machen, oder es ist jedem Aktionär auf dessen Wunsch kostenlos eine
+               Kopie des Protokolls zuzustellen.
+               Art. 702a
+IV. Teilnahme  Die Mitglieder des Verwaltungsrats sind berechtigt, an der General-
+der Mitglieder
+des Ver-       versammlung und der Universalversammlung teilzunehmen. Sie
+waltungsrats   können Anträge stellen.
+               Art. 703
+V. Beschluss-  1 Die Generalversammlung fasst ihre Beschlüsse und vollzieht ihre
+fassung und
+Wahlen         Wahlen, soweit das Gesetz oder die Statuten es nicht anders bestim-
+1. Im          men, mit der absoluten Mehrheit der abgegebenen Stimmen.
+Allgemeinen
+               2 Enthaltungen gelten nicht als abgegebene Stimmen.
+               Art. 704 Abs. 1 und 2
+               1 Ein Beschluss der Generalversammlung, der mindestens zwei Drittel
+               der abgegebenen Stimmen und die Mehrheit der vertretenen Aktien-
+               nennwerte auf sich vereinigt, ist erforderlich für:
+                  1.   die Änderung des Gesellschaftszwecks;
+                  2.   das Zusammenlegen von börsenkotierten Aktien;
+                                                                              1781
+"
+"Obligationenrecht
+                    3.  die Kapitalerhöhung aus Eigenkapital, gegen Sacheinlagen,
+                        mittels Einlage durch Verrechnung oder zwecks Sachüber-
+                        nahme und die Gewährung von besonderen Vorteilen;
+                    4.  die Einschränkung oder die Aufhebung des Bezugsrechts;
+                    5.  eine bedingte Kapitalerhöhung sowie die Einführung eines
+                        Kapitalbands;
+                    6.  die Umwandlung von Partizipationsscheinen in Aktien;
+                    7.  die Beschränkung der Übertragbarkeit von Namenaktien;
+                    8.  die Einführung von Stimmrechtsaktien;
+                    9.  die Aufnahme von Statutenbestimmungen über die Genehmi-
+                        gung von Entscheiden des Verwaltungsrats durch die General-
+                        versammlung;
+                    10. die Aufnahme einer Statutenbestimmung über einen ausländi-
+                        schen Tagungsort der Generalversammlung;
+                    11. die Verlegung des Sitzes der Gesellschaft;
+                    12. die Auflösung der Gesellschaft.
+                2 Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse
+                grössere Mehrheiten als die vom Gesetz vorgeschriebenen festlegen,
+                können nur mit dem vorgesehenen Mehr eingeführt oder abgeschafft
+                werden.
+                Art. 704a (neu)
+3. Umwandlung   Der Beschluss der Generalversammlung über die Umwandlung von
+von Inhaber- in
+Namenaktien     Inhaberaktien in Namenaktien kann mit der Mehrheit der abgegebenen
+                Stimmen gefasst werden. Die Statuten dürfen die Umwandlung nicht
+                erschweren.
+                Art. 706a Abs. 3
+                Aufgehoben
+                Art. 707
+I. Im           1 Der Verwaltungsrat der Gesellschaft besteht aus einer oder mehreren
+Allgemeinen
+1. Wählbarkeit
+                natürlichen Personen.
+                2 Ist an der Gesellschaft eine juristische Person oder eine Handels-
+                gesellschaft beteiligt, so können an ihrer Stelle ihre Vertreter in den
+                Verwaltungsrat gewählt werden.
+                Art. 710 Randtitel, Abs. 1
+3. Wahl und     1 Die Generalversammlung wählt die Mitglieder des Verwaltungsrats
+Amtsdauer
+                jährlich. Die Wahl erfolgt für jedes Mitglied einzeln.
+1782
+"
+"Obligationenrecht
+               Art. 716a Abs. 1 Ziff. 3
+               Randtitel: Betrifft nur den französischen und italienischen Text
+               1 Der Verwaltungsrat hat folgende unübertragbare und unentziehbare
+               Aufgaben:
+                  3.    die Ausgestaltung des Rechnungswesens, der Finanzkontrolle
+                        sowie der Finanzplanung, sofern diese nach Umfang und Art
+                        für das Geschäft notwendig ist;
+               Art. 716b
+IV. Genehmi-   1 Die Statuten können vorsehen, dass der Verwaltungsrat der General-
+gung durch die
+Generalver-    versammlung bestimmte Entscheide zur Genehmigung vorlegen muss.
+sammlung       Die Entscheide des Verwaltungsrats nach Artikel 716a Absatz 1
+               Ziffern 3–7 können nicht der Genehmigung durch die Generalver-
+               sammlung unterstellt werden.
+               2 Der Verwaltungsrat muss der Generalversammlung alle Informatio-
+               nen vorlegen, die für den Entscheid der Generalversammlung von
+               Bedeutung sind.
+               3 Die Genehmigung durch die Generalversammlung schränkt die
+               Haftung des Verwaltungsrats nicht ein.
+               Art. 716c (neu)
+V. Übertragung 1 Die Statuten können den Verwaltungsrat ermächtigen, die Geschäfts-
+der Geschäfts-
+führung        führung nach Massgabe eines Organisationsreglements ganz oder zum
+               Teil an einzelne Mitglieder oder an Dritte zu übertragen.
+               2 Das Organisationsreglement legt namentlich fest:
+                  1.    die innere Organisation und gegebenenfalls die Ausschüsse
+                        des Verwaltungsrats;
+                  2.    die Ordnung der Geschäftsführung, die Bezeichnung der mit
+                        der Geschäftsführung betrauten Stellen und deren Aufgaben;
+                  3.    die Modalitäten der Berichterstattung;
+                  4.    die wichtigen Geschäfte, die der Genehmigung durch den
+                        Verwaltungsrat bedürfen.
+               3 Soweit die Geschäftsführung nicht übertragen worden ist, steht sie
+               allen Mitgliedern des Verwaltungsrats gesamthaft zu.
+               4 Der Verwaltungsrat orientiert die Aktionäre und, sofern sie ein
+               schutzwürdiges Interesse glaubhaft machen, die Gläubiger der Gesell-
+               schaft auf Anfrage schriftlich über die Organisation der Geschäftsfüh-
+               rung, soweit diese im Organisationsreglement zwingend zu umschrei-
+               ben ist.
+                                                                                1783
+"
+"Obligationenrecht
+                  Art. 717 Randtitel
+VI. Sorgfalts-
+und Treuepflicht
+1. Im
+Allgemeinen
+                  Art. 717a (neu)
+2. Interessen-    1 Die Mitglieder des Verwaltungsrats und der Geschäftsleitung infor-
+konflikte
+                  mieren den Präsidenten des Verwaltungsrats unverzüglich und voll-
+                  ständig über Interessenkonflikte. Befindet sich der Präsident in einem
+                  Interessenkonflikt, so wendet er sich an den stellvertretenden Präsi-
+                  denten.
+                  2 Der Präsident oder der stellvertretende Präsident informiert, soweit
+                  erforderlich, den Verwaltungsrat.
+                  3 Der Verwaltungsrat ergreift die Massnahmen, die zur Wahrung der
+                  Interessen der Gesellschaft nötig sind. Bei der Beschlussfassung über
+                  die entsprechenden Massnahmen muss die betroffene Person in Aus-
+                  stand treten.
+                  Art. 717b (neu)
+3. Verbot         1 Bei Gesellschaften, deren Aktien an der Börse kotiert sind, muss
+gegenseitiger
+Einflussnahme     ausgeschlossen sein, dass Mitglieder des Verwaltungsrats oder der
+                  Geschäftsleitung, die zugleich dem Verwaltungsrat oder der
+                  Geschäftsleitung einer anderen Gesellschaft angehören, gegenseitig
+                  Einfluss auf die Festsetzung ihrer Vergütungen haben.
+                  2 Wird bei der Beschlussfassung über Vergütungen Absatz 1 verletzt,
+                  so ist der Beschluss nichtig.
+                  Art. 718 Randtitel
+VII. Vertretung
+1. Im
+Allgemeinen
+                  Art. 722 Randtitel
+VIII. Haftung für
+Organe
+                  Art. 725
+IX. Anzeige-      Zeigt die letzte Jahresbilanz, dass die Aktiven abzüglich der Verbind-
+pflichten und
+Konkurs.          lichkeiten die Hälfte der Summe aus Aktienkapital, gesetzlicher
+1. Kapitalverlust Kapitalreserve und gesetzlicher Gewinnreserve nicht mehr decken, so
+                  beruft der Verwaltungsrat unverzüglich eine Generalversammlung ein
+                  und beantragt ihr Sanierungsmassnahmen.
+1784
+"
+"Obligationenrecht
+                 Art. 725a
+2. Zahlungs-     1 Besteht die begründete Besorgnis, dass die Gesellschaft zahlungsun-
+unfähigkeit
+                 fähig ist, so muss der Verwaltungsrat unverzüglich einen Liquiditäts-
+                 plan erstellen. Dieser stellt den aktuellen Bestand der flüssigen Mittel
+                 fest und enthält eine Aufstellung der zu erwartenden Einzahlungen
+                 und Auszahlungen in den nächsten zwölf Monaten.
+                 2 Der Verwaltungsrat muss den Liquiditätsplan durch einen zugelasse-
+                 nen Revisor prüfen lassen. Diesem obliegen die Anzeigepflichten der
+                 Revisionsstelle.
+                 3 Ist die Gesellschaft zahlungsunfähig, so muss der Verwaltungsrat
+                 unverzüglich eine Generalversammlung einberufen und ihr Sanie-
+                 rungsmassnahmen beantragen.
+                 Art. 725b (neu)
+3. Statutarische Die Statuten können weitere Voraussetzungen vorsehen, bei deren
+Anzeigepflichten
+                 Vorliegen der Verwaltungsrat unverzüglich die Generalversammlung
+                 einberufen und ihr Sanierungsmassnahmen beantragen muss.
+                 Art. 725c (neu)
+4. Über-         1 Besteht die begründete Besorgnis, dass die Verbindlichkeiten der
+schuldung
+                 Gesellschaft nicht mehr durch die Aktiven gedeckt sind, so muss der
+                 Verwaltungsrat unverzüglich je eine Zwischenbilanz zu Fortführungs-
+                 und zu Veräusserungswerten erstellen.
+                 2 In der Zwischenbilanz dürfen die Veräusserungswerte höher festge-
+                 setzt werden als die gesetzlich vorgesehenen Höchstwerte, sofern
+                 beabsichtigt ist, die entsprechenden Vermögenswerte innert zwölf
+                 Monaten zu veräussern und die Veräusserung voraussichtlich möglich
+                 ist. Nachrangige Verbindlichkeiten sind in der Zwischenbilanz geson-
+                 dert aufzuführen.
+                 3 Der Verwaltungsrat muss die Zwischenbilanzen durch einen zuge-
+                 lassenen Revisor prüfen lassen. Diesem obliegen die Anzeigepflichten
+                 der Revisionsstelle.
+                 4 Ist die Gesellschaft gemäss den beiden Zwischenbilanzen überschul-
+                 det, so muss der Verwaltungsrat das Gericht benachrichtigen.
+                 5 Er muss das Gericht nicht benachrichtigen, sofern Gläubiger im
+                 Ausmass der Unterdeckung der Verbindlichkeiten der Gesellschaft im
+                 Rang hinter alle anderen Gläubiger zurücktreten und ihre Forderungen
+                 stunden. Die Stundung muss sowohl den geschuldeten Betrag als auch
+                 die Zinsforderungen während der Dauer der Überschuldung umfassen.
+                                                                                    1785
+"
+"Obligationenrecht
+                Art. 725d (neu)
+5. Konkurs      1 Wird das Gericht durch den Verwaltungsrat oder die Revisionsstelle
+                über die Überschuldung der Gesellschaft benachrichtigt, so eröffnet es
+                den Konkurs. Es kann ihn auf Antrag des Verwaltungsrats oder eines
+                Gläubigers aufschieben, falls Aussicht auf Sanierung besteht.
+                2 Schiebt das Gericht den Konkurs auf, so trifft es die erforderlichen
+                Massnahmen zur Erhaltung des Vermögens. Insbesondere kann es
+                einen Sachwalter bestellen und entweder dem Verwaltungsrat die
+                Verfügungsbefugnis entziehen oder dessen Beschlüsse von der
+                Zustimmung des Sachwalters abhängig machen. Es umschreibt die
+                Aufgaben des Sachwalters.
+                3 Der Konkursaufschub muss nur veröffentlicht werden, wenn dies
+                zum Schutz Dritter erforderlich ist.
+                Art. 726 Randtitel
+X. Abberufung
+und Einstellung
+                Art. 731b Abs. 1 erster und zweiter Satz
+                1 Verfügt die Gesellschaft nicht über alle vorgeschriebenen Organe, ist
+                eines dieser Organe nicht rechtmässig zusammengesetzt oder hat sie
+                kein Rechtsdomizil an ihrem Sitz mehr, so kann ein Aktionär, ein
+                Gläubiger oder das Handelsregisteramt dem Gericht beantragen, die
+                erforderlichen Massnahmen zu ergreifen. Das Gericht kann insbeson-
+                dere: …
+                Art. 732–735
+                Aufgehoben
+                Art. 736 Abs. 1 Ziff. 4 sowie 2 (neu)
+                1 Die Gesellschaft wird aufgelöst:
+                   4.   durch Urteil des Gerichts, wenn Aktionäre, die zusammen
+                        entweder mindestens 5 Prozent des Aktienkapitals, 5 Prozent
+                        der Stimmen oder 1 Million des Nennwerts vertreten, aus
+                        wichtigen Gründen die Auflösung verlangen;
+                2 Bei der Klage gemäss Absatz 1 Ziffer 4 kann das Gericht statt auf
+                Auflösung auf eine andere sachgemässe und den Beteiligten zumut-
+                bare Lösung erkennen.
+1786
+"
+"Obligationenrecht
+                  Art. 755 Abs. 2
+                  2 Wurde die Prüfung von einer Finanzkontrolle der öffentlichen Hand
+                  oder von einem ihrer Arbeitnehmer durchgeführt, so haftet das betref-
+                  fende Gemeinwesen. Der Rückgriff auf die an der Prüfung beteiligten
+                  Personen richtet sich nach dem öffentlichen Recht.
+                  Art. 756 Abs. 2
+                  Aufgehoben
+                  Art. 757 Abs. 3
+                  Aufgehoben
+                  Art. 759 Randtitel, Abs. 1bis (neu)
+C. Differenzierte 1bis Personen, die der Revisionshaftung unterstehen und die einen
+Solidarität und
+Rückgriff         Schaden lediglich fahrlässig mitverursacht haben, haften bis zu dem
+                  Betrag, für den sie zufolge Rückgriffs aufkommen müssten.
+2. Der zweiunddreissigste Titel des Obligationenrechts7 erhält folgende Fassung:
+                  Zweiunddreissigster Titel:
+                  Kaufmännische Buchführung und Rechnungslegung
+                  Erster Abschnitt: Allgemeine Bestimmungen
+                  Art. 957
+A. Pflicht zur    1 Einzelunternehmen, Personengesellschaften und juristische Perso-
+Buchführung
+und Rechnungs-    nen, die sich ins Handelsregister eintragen lassen müssen (Unterneh-
+legung            men), unterliegen der Pflicht zur Buchführung und Rechnungslegung
+                  gemäss den nachfolgenden Bestimmungen.
+                  2 Einzelunternehmen, Vereine und Stiftungen, die nicht verpflichtet
+                  sind, sich ins Handelsregister eintragen zu lassen, müssen lediglich
+                  Buch führen über die Einnahmen und Ausgaben sowie über die Ver-
+                  mögenslage. Die Grundsätze ordnungsmässiger Buchführung gelten
+                  sinngemäss.
+                  3 Spezialgesetzliche Bestimmungen bleiben vorbehalten, sofern die
+                  wirtschaftliche Lage des Unternehmens gleichwertig dargestellt wird.
+7     SR 220
+                                                                                  1787
+"
+"Obligationenrecht
+               Art. 957a
+B. Buchführung 1 Die Buchführung bildet die Grundlage der Rechnungslegung und
+               erfasst diejenigen Geschäftsvorfälle und Sachverhalte, die für die
+               Darstellung der Vermögens-, Finanzierungs- und Ertragslage des
+               Unternehmens (wirtschaftliche Lage) notwendig sind.
+               2 Sie folgt den Grundsätzen ordnungsmässiger Buchführung. Nament-
+               lich sind zu beachten:
+                  1.    die vollständige, wahrheitsgetreue und systematische Erfas-
+                        sung der Geschäftsfälle und Sachverhalte;
+                  2.    der Belegnachweis für die einzelnen Buchungsvorgänge;
+                  3.    die Klarheit;
+                  4.    die Zweckmässigkeit mit Blick auf die Art und Grösse des
+                        Unternehmens;
+                  5.    die Nachprüfbarkeit.
+               3 Als Buchungsbeleg gelten alle schriftlichen Aufzeichnungen auf
+               Papier oder in elektronischer oder vergleichbarer Form, die notwendig
+               sind, um den einer Buchung zugrunde liegenden Geschäftsvorfall oder
+               Sachverhalt nachvollziehen zu können.
+               4 Die Buchführung erfolgt in der Landeswährung oder in der für die
+               Geschäftstätigkeit wesentlichen Währung.
+               5 Sie erfolgt in einer der Landessprachen oder in Englisch. Sie kann
+               schriftlich, elektronisch oder in vergleichbarer Weise geführt werden.
+               Art. 958
+C. Rechnungs-  1 Die Rechnungslegung soll die wirtschaftliche Lage des Unterneh-
+legung
+I. Zweck und
+               mens so darstellen, dass sich Dritte ein zuverlässiges Urteil bilden
+Bestandteile   können.
+               2 Die Rechnungslegung erfolgt im Geschäftsbericht. Dieser enthält die
+               Jahresrechnung (Einzelabschluss), die sich aus der Bilanz, der
+               Erfolgsrechnung und dem Anhang zusammensetzt. Die Vorschriften
+               für grössere Unternehmen und Konzerne bleiben vorbehalten.
+               3 Der Geschäftsbericht muss innerhalb von sechs Monaten nach
+               Ablauf des Geschäftsjahres erstellt und dem zuständigen Organ oder
+               den zuständigen Personen vorgelegt werden. Er ist vom Vorsitzenden
+               des obersten Leitungs- oder Verwaltungsorgans und der innerhalb des
+               Unternehmens für die Rechnungslegung zuständigen Person zu unter-
+               zeichnen.
+1788
+"
+"Obligationenrecht
+                 Art. 958a
+II. Grundlagen   1 Die Rechnungslegung beruht auf der Annahme, dass das Unterneh-
+der Rechnungs-
+legung           men auf absehbare Zeit fortgeführt wird.
+1. Annahme der
+Fortführung
+                 2 Ist die Einstellung der Tätigkeit oder von Teilen davon in den nächs-
+                 ten zwölf Monaten ab Bilanzstichtag beabsichtigt oder voraussichtlich
+                 nicht abwendbar, so sind der Rechnungslegung für die betreffenden
+                 Unternehmensteile Veräusserungswerte zugrunde zu legen. Für die
+                 mit der Einstellung verbundenen Aufwendungen sind Rückstellungen
+                 zu bilden.
+                 3 Abweichungen     von der Annahme der Fortführung sind im Anhang
+                 zu vermerken; ihr Einfluss auf die wirtschaftliche Lage ist darzulegen.
+                 Art. 958b
+2. Zeitliche und 1 Aufwände und Erträge müssen voneinander in zeitlicher und sach-
+sachliche
+Abgrenzung       licher Hinsicht abgegrenzt werden.
+                 2 Sofern die Nettoerlöse aus Lieferungen und Leistungen oder die
+                 Finanzerträge 100 000 Franken nicht überschreiten, kann auf die
+                 zeitliche Abgrenzung verzichtet und stattdessen auf Ausgaben und
+                 Einnahmen abgestellt werden.
+                 Art. 958c
+III. Grundsätze  1 Für die Rechnungslegung sind insbesondere die folgenden Grund-
+ordnungs-
+mässiger         sätze massgebend:
+Rechnungs-
+legung               1.   Sie muss klar und verständlich sein.
+                     2.   Sie muss vollständig sein.
+                     3.   Sie muss verlässlich sein.
+                     4.   Sie muss das Wesentliche enthalten.
+                     5.   Es sind bei der Darstellung und der Bewertung stets die glei-
+                          chen Massstäbe zu verwenden.
+                     6.   Aktiven und Passiven sowie Aufwand und Ertrag dürfen nicht
+                          miteinander verrechnet werden.
+                 2 Der Bestand der einzelnen Positionen in der Bilanz und im Anhang
+                 ist durch ein Inventar oder auf andere Art nachzuweisen.
+                 3 Die Rechnungslegung ist unter Wahrung des gesetzlichen Mindest-
+                 inhalts den Besonderheiten des Unternehmens und der Branche anzu-
+                 passen.
+                                                                                    1789
+"
+"Obligationenrecht
+                 Art. 958d
+IV. Darstellung, 1 Die Bilanz und die Erfolgsrechnung können in Konto- oder in Staf-
+Währung und
+Sprache          felform dargestellt werden. Positionen, die keinen oder nur einen
+                 unwesentlichen Wert aufweisen, brauchen nicht separat aufgeführt zu
+                 werden.
+                 2 In der Jahresrechnung sind neben den Zahlen für das Geschäftsjahr
+                 die entsprechenden Werte des Vorjahres anzugeben.
+                 3 Die Rechnungslegung erfolgt in der Landeswährung oder in der für
+                 die Geschäftstätigkeit wesentlichen Währung. Wird nicht die Landes-
+                 währung verwendet, so müssen die Werte zusätzlich in der Landes-
+                 währung angegeben werden. Die verwendeten Umrechnungskurse
+                 sind im Anhang offenzulegen und gegebenenfalls zu erläutern.
+                 4 Die Rechnungslegung erfolgt in einer der Landessprachen oder in
+                 Englisch.
+                 Art. 958e
+D. Offenlegung   1 Jahresrechnung und Konzernrechnung sind nach der Genehmigung
+und Einsicht-
+nahme            durch das zuständige Organ mit den Revisionsberichten entweder im
+                 Schweizerischen Handelsamtsblatt zu veröffentlichen oder jeder
+                 Person, die es innerhalb eines Jahres seit Abnahme verlangt, auf deren
+                 Kosten in einer Ausfertigung zuzustellen, wenn das Unternehmen:
+                    1.   Anleihensobligationen ausstehend hat; oder
+                    2.   Beteiligungspapiere an einer Börse kotiert hat.
+                 2 Die übrigen Unternehmen müssen den Gläubigern, die ein schutz-
+                 würdiges Interesse nachweisen, Einsicht in den Geschäftsbericht und
+                 in die Revisionsberichte gewähren. Im Streitfall entscheidet das
+                 Gericht.
+                 Art. 958f
+E. Führung und   1 Die Geschäftsbücher und die Buchungsbelege sowie der Geschäfts-
+Aufbewahrung
+der Geschäfts-   bericht und der Revisionsbericht sind während zehn Jahren aufzube-
+bücher           wahren. Die Aufbewahrungsfrist beginnt mit dem Ablauf des
+                 Geschäftsjahres.
+                 2 Der Geschäftsbericht und der Revisionsbericht sind schriftlich und
+                 unterzeichnet aufzubewahren.
+                 3 Die Geschäftsbücher und die Buchungsbelege können auf Papier,
+                 elektronisch oder in vergleichbarer Weise aufbewahrt werden, soweit
+                 dadurch die Übereinstimmung mit den zugrunde liegenden
+                 Geschäftsvorfällen und Sachverhalten gewährleistet ist und wenn sie
+                 jederzeit wieder lesbar gemacht werden können.
+1790
+"
+"Obligationenrecht
+                  4 Der Bundesrat erlässt die Vorschriften über die zu führenden
+                  Geschäftsbücher, die Grundsätze zu deren Führung und Aufbewah-
+                  rung sowie über die verwendbaren Informationsträger.
+                  Zweiter Abschnitt: Jahresrechnung
+                  Art. 959
+A. Bilanz         1 Die Bilanz stellt die Vermögens- und Finanzierungslage des Unter-
+I. Zweck der      nehmens am Bilanzstichtag dar. Sie gliedert sich in Aktiven und
+Bilanz, Bilanzie-
+rungspflicht und  Passiven.
+Bilanzierungs-
+fähigkeit         2 Als Aktiven müssen Vermögenswerte bilanziert werden, wenn
+                  aufgrund vergangener Ereignisse über sie verfügt werden kann, ein
+                  Mittelzufluss wahrscheinlich ist und ihr Wert verlässlich geschätzt
+                  werden kann. Andere Vermögenswerte dürfen nicht bilanziert werden.
+                  3 Als Umlaufvermögen müssen die flüssigen Mittel bilanziert werden
+                  sowie andere Aktiven, die voraussichtlich innerhalb eines Jahres ab
+                  Bilanzstichtag oder innerhalb des normalen Geschäftszyklus zu flüssi-
+                  gen Mitteln werden oder anderweitig realisiert werden. Als Anlage-
+                  vermögen müssen alle übrigen Aktiven bilanziert werden.
+                  4 Als Passiven müssen das Fremd- und das Eigenkapital bilanziert
+                  werden.
+                  5 Verbindlichkeiten müssen als Fremdkapital bilanziert werden, wenn
+                  sie durch vergangene Ereignisse bewirkt wurden, ein Mittelabfluss
+                  wahrscheinlich ist und ihre Höhe verlässlich geschätzt werden kann.
+                  6 Als kurzfristig müssen die Verbindlichkeiten bilanziert werden, die
+                  voraussichtlich innerhalb eines Jahres ab Bilanzstichtag oder innerhalb
+                  des normalen Geschäftszyklus zur Zahlung fällig werden. Als langfris-
+                  tig müssen alle übrigen Verbindlichkeiten bilanziert werden.
+                  7 Das Eigenkapital ist der Rechtsform entsprechend auszuweisen und
+                  zu gliedern.
+                  Art. 959a
+II. Mindest-      1 Unter den Aktiven müssen ihrem Liquiditätsgrad entsprechend
+gliederung
+                  mindestens folgende Positionen einzeln und in der vorgegebenen
+                  Reihenfolge ausgewiesen werden:
+                     1.   Umlaufvermögen:
+                          a. flüssige Mittel und kurzfristig gehaltene Aktiven mit Bör-
+                               senkurs,
+                          b. Forderungen aus Lieferungen und Leistungen,
+                                                                                    1791
+"
+"Obligationenrecht
+                       c.   übrige kurzfristige Forderungen,
+                       d.   Vorräte und nicht fakturierte Dienstleistungen,
+                       e.   aktive Rechnungsabgrenzungen;
+                  2.   Anlagevermögen:
+                       a. Finanzanlagen,
+                       b. Beteiligungen,
+                       c. Sachanlagen,
+                       d. immaterielle Werte,
+                       e. nicht einbezahltes Grund-, Gesellschafter- oder Stiftungs-
+                            kapital.
+               2 Unter den Passiven müssen ihrer Fälligkeit entsprechend mindestens
+               folgende Positionen einzeln und in der vorgegebenen Reihenfolge
+               ausgewiesen werden:
+                  1.   kurzfristiges Fremdkapital:
+                       a. Verbindlichkeiten aus Lieferungen und Leistungen,
+                       b. kurzfristige verzinsliche Verbindlichkeiten,
+                       c. übrige kurzfristige Verbindlichkeiten,
+                       d. passive Rechnungsabgrenzungen;
+                  2.   langfristiges Fremdkapital:
+                       a. langfristige, verzinsliche Verbindlichkeiten,
+                       b. übrige langfristige Verbindlichkeiten,
+                       c. Rückstellungen sowie vom Gesetz vorgesehene ähnliche
+                            Positionen;
+                  3.   Eigenkapital:
+                       a. Grund-, Gesellschafter- oder Stiftungskapital, gegebenen-
+                            falls gesondert nach Beteiligungskategorien,
+                       b. gesetzliche Kapitalreserve,
+                       c. gesetzliche Gewinnreserve,
+                       d. freiwillige Gewinnreserven oder kumulierte Verluste als
+                            Minusposten,
+                       e. eigene Kapitalanteile als Minusposten.
+               3 Weitere Positionen müssen in der Bilanz oder im Anhang einzeln
+               ausgewiesen werden, sofern dies für die Beurteilung der Vermögens-
+               oder Finanzierungslage durch Dritte wesentlich oder aufgrund der
+               Tätigkeit des Unternehmens üblich ist.
+               4 Forderungen und Verbindlichkeiten gegenüber direkt oder indirekt
+               Beteiligten und Organen sowie gegenüber Unternehmen, an denen
+               direkt oder indirekt eine Beteiligung besteht, müssen jeweils gesondert
+               in der Bilanz oder im Anhang ausgewiesen werden.
+1792
+"
+"Obligationenrecht
+               Art. 959b
+B. Erfolgs-    1 Die Erfolgsrechnung stellt die Ertragslage des Unternehmens wäh-
+rechnung;
+Mindest-       rend des Geschäftsjahres dar. Sie kann als Produktionserfolgsrech-
+gliederung     nung oder als Absatzerfolgsrechnung dargestellt werden.
+               2 In der Produktionserfolgsrechnung (Gesamtkostenverfahren) müssen
+               mindestens folgende Positionen je einzeln und in der vorgegebenen
+               Reihenfolge ausgewiesen werden:
+                  1.   Nettoerlöse aus Lieferungen und Leistungen;
+                  2.   Bestandesänderungen an unfertigen und fertigen Erzeugnissen
+                       sowie an nicht fakturierten Dienstleistungen;
+                  3.   Materialaufwand;
+                  4.   Personalaufwand;
+                  5.   übriger betrieblicher Aufwand;
+                  6.   Abschreibungen und Wertberichtigungen auf Positionen des
+                       Anlagevermögens;
+                  7.   Finanzaufwand und Finanzertrag;
+                  8.   betriebsfremder Aufwand und betriebsfremder Ertrag;
+                  9.   ausserordentlicher, einmaliger oder periodenfremder Aufwand
+                       und Ertrag;
+                  10. Jahresgewinn oder Jahresverlust.
+               3 In der Absatzerfolgsrechnung (Umsatzkostenverfahren) müssen
+               mindestens folgende Positionen je einzeln und in der vorgegebenen
+               Reihenfolge ausgewiesen werden:
+                  1.   Nettoerlöse aus Lieferungen und Leistungen;
+                  2.   Anschaffungs- oder Herstellungskosten der verkauften Pro-
+                       dukte und Leistungen;
+                  3.   Verwaltungsaufwand und Vertriebsaufwand;
+                  4.   Finanzaufwand und Finanzertrag;
+                  5.   betriebsfremder Aufwand und betriebsfremder Ertrag;
+                  6.   ausserordentlicher, einmaliger oder periodenfremder Aufwand
+                       und Ertrag;
+                  7.   Jahresgewinn oder Jahresverlust.
+               4 Bei der Absatzerfolgsrechnung müssen im Anhang zudem der Per-
+               sonalaufwand sowie in einer Position Abschreibungen und Wert-
+               berichtigungen auf Positionen des Anlagevermögens ausgewiesen
+               werden.
+                                                                              1793
+"
+"Obligationenrecht
+               5 Werden dem obersten Leitungs- oder Verwaltungsorgan, dem
+               Geschäftsführungsorgan oder den Mitarbeitenden Beteiligungsrechte
+               oder Optionen auf solche Rechte zugeteilt, so ist dies erfolgswirksam
+               zu verbuchen.
+               6 Weitere Positionen müssen in der Erfolgsrechnung oder im Anhang
+               einzeln ausgewiesen werden, sofern dies für die Beurteilung der
+               Ertragslage durch Dritte wesentlich oder aufgrund der Tätigkeit des
+               Unternehmens üblich ist.
+               Art. 959c
+C. Anhang      1 Der Anhang der Jahresrechnung ergänzt und erläutert die anderen
+               Bestandteile der Jahresrechnung. Er enthält:
+                  1.   Angaben über die in der Jahresrechnung angewandten Grund-
+                       sätze, soweit diese nicht vom Gesetz vorgeschrieben sind;
+                  2.   Angaben, Aufschlüsselungen, und Erläuterungen zu Positio-
+                       nen der Bilanz und der Erfolgsrechnung;
+                  3.   weitere vom Gesetz verlangte Angaben.
+               2 Der Anhang muss weiter folgende Angaben enthalten, sofern diese
+               nicht bereits aus der Bilanz oder der Erfolgsrechnung ersichtlich sind:
+                  1.   Firma oder Name sowie Rechtsform und Sitz des Unterneh-
+                       mens;
+                  2.   eine Erklärung darüber, ob die Anzahl Vollzeitstellen im Jah-
+                       resdurchschnitt nicht über 10, über 50 beziehungsweise über
+                       200 liegt;
+                  3.   Firma, Rechtsform und Sitz der Unternehmen, an denen direk-
+                       te oder wesentliche indirekte Beteiligungen bestehen, unter
+                       Angabe des Kapital- und Stimmenanteils;
+                  4.   Anzahl eigener Anteile, die das Unternehmen selbst und die
+                       Unternehmen, an denen es beteiligt ist, halten;
+                  5.   Erwerb und Veräusserung eigener Anteile und die Bedingun-
+                       gen, zu denen sie erworben oder veräussert wurden;
+                  6.   der Restbetrag der Verbindlichkeiten aus kaufvertragsähn-
+                       lichen Leasinggeschäften und anderen Leasingverpflichtun-
+                       gen, sofern diese nicht innert zwölf Monaten ab Bilanzstichtag
+                       auslaufen oder gekündigt werden können;
+                  7.   Verbindlichkeiten gegenüber Vorsorgeeinrichtungen;
+                  8.   der Gesamtbetrag der für Verbindlichkeiten Dritter bestellten
+                       Sicherheiten;
+                  9.   je der Gesamtbetrag der zur Sicherung eigener Verbindlichkei-
+                       ten verwendeten Aktiven sowie der Aktiven unter Eigentums-
+                       vorbehalt;
+1794
+"
+"Obligationenrecht
+                  10. sonstige Verpflichtungen, die noch keine Verbindlichkeiten
+                       sind und nicht innert zwölf Monaten ab Bilanzstichtag gekün-
+                       digt werden können;
+                  11. Erläuterungen zu ausserordentlichen, einmaligen oder perio-
+                       denfremden Positionen der Erfolgsrechnung;
+                  12. wesentliche Ereignisse nach dem Bilanzstichtag;
+                  13. bei einem vorzeitigen Rücktritt der Revisionsstelle: die Grün-
+                       de, die dazu geführt haben.
+               3 Einzelunternehmen und Personengesellschaften können auf die
+               Erstellung des Anhangs verzichten, wenn sie nicht zur Rechnungs-
+               legung nach den Vorschriften für grössere Unternehmen verpflichtet
+               sind. Werden in den Vorschriften zur Mindestgliederung von Bilanz
+               und Erfolgsrechnung zusätzliche Angaben gefordert und wird auf die
+               Erstellung eines Anhangs verzichtet, so sind diese Angaben direkt in
+               der Bilanz oder in der Erfolgsrechnung auszuweisen.
+               4 Unternehmen, die Anleihensobligationen ausstehend haben, müssen
+               Angaben zu deren Beträgen, Zinssätzen, Fälligkeiten und zu den
+               weiteren Konditionen machen.
+               Art. 960
+D. Bewertung   1 Aktiven und Verbindlichkeiten müssen einzeln bewertet werden,
+I. Grundsätze  sofern sie wesentlich sind und aufgrund ihrer Gleichartigkeit für die
+               Bewertung nicht üblicherweise als Gruppe zusammengefasst werden.
+               2 Die Bewertung muss vorsichtig erfolgen, darf aber die zuverlässige
+               Beurteilung der wirtschaftlichen Lage des Unternehmens nicht ver-
+               hindern.
+               3 Bestehen konkrete Anzeichen für eine Überbewertung von Aktiven
+               oder für zu geringe Rückstellungen, so sind die Werte zu überprüfen
+               und gegebenenfalls anzupassen.
+               Art. 960a
+II. Aktiven    1 Bei ihrer Ersterfassung müssen die Aktiven zu den Anschaffungs-
+1. Im          oder Herstellungskosten bewertet werden.
+Allgemeinen
+               2 In der Folgebewertung dürfen Aktiven nicht höher bewertet werden
+               als zu den Anschaffungs- oder Herstellungskosten. Vorbehalten blei-
+               ben Bestimmungen für einzelne Arten von Aktiven.
+               3 Der nutzungs- und altersbedingte Wertverlust muss durch Abschrei-
+               bungen, anderweitige Wertverluste durch Wertberichtigungen berück-
+               sichtigt werden. Abschreibungen und Wertberichtigungen müssen
+               nach den allgemein anerkannten kaufmännischen Grundsätzen vorge-
+               nommen werden. Sie sind direkt oder indirekt bei den betreffenden
+                                                                                1795
+"
+"Obligationenrecht
+                  Aktiven zulasten der Erfolgsrechnung abzusetzen und dürfen nicht
+                  unter den Passiven ausgewiesen werden.
+                  4 Zu Wiederbeschaffungszwecken sowie zur Sicherung des dauernden
+                  Gedeihens des Unternehmens dürfen zusätzliche Abschreibungen und
+                  Wertberichtigungen vorgenommen werden. Zu den gleichen Zwecken
+                  kann davon abgesehen werden, nicht mehr begründete Abschreibun-
+                  gen und Wertberichtigungen aufzulösen.
+                  5 Werden nicht mehr begründete Abschreibungen und Wertberichti-
+                  gungen aufgelöst, so muss deren Gesamtbetrag in der Erfolgsrechnung
+                  oder im Anhang gesondert ausgewiesen werden. Die Höchstbewer-
+                  tungsvorschriften müssen beachtet werden.
+                  Art. 960b
+2. Aktiven mit    1 In der Folgebewertung dürfen Aktiven mit Börsenkurs zum Kurs am
+Börsenkurs
+                  Bilanzstichtag bewertet werden, auch wenn dieser über dem Nennwert
+                  oder dem Anschaffungswert liegt. Wer von diesem Recht Gebrauch
+                  macht, muss alle Aktiven der entsprechenden Bilanzposten, die einen
+                  Börsenkurs aufweisen, zum Kurs am Bilanzstichtag bewerten. Im
+                  Anhang muss auf diese Bewertung hingewiesen werden. Der
+                  Gesamtwert der entsprechenden Aktiven muss für Wertschriften und
+                  übrige Aktiven mit Börsenkurs je gesondert offengelegt werden.
+                  2 Werden Aktiven zum Börsenkurs am Bilanzstichtag bewertet, so
+                  darf eine Wertberichtigung zulasten der Erfolgsrechnung gebildet
+                  werden, um Schwankungen im Kursverlauf Rechnung zu tragen.
+                  Solche Wertberichtigungen sind jedoch nicht zulässig, wenn dadurch
+                  sowohl der Anschaffungswert als auch der allenfalls tiefere Kurswert
+                  unterschritten würden. Der Betrag der Schwankungsreserven ist
+                  insgesamt in der Bilanz oder im Anhang gesondert auszuweisen.
+                  Art. 960c
+3. Vorräte und    1 Liegt in der Folgebewertung von Vorräten und nicht fakturierten
+nicht fakturierte
+Dienstleistungen  Dienstleistungen der Veräusserungswert unter Berücksichtigung noch
+                  anfallender Kosten am Bilanzstichtag unter den Anschaffungs- oder
+                  Herstellungskosten, so muss dieser Wert eingesetzt werden.
+                  2 Als Vorräte im Sinne dieser Bestimmung gelten Rohmaterial,
+                  Erzeugnisse in Arbeit, fertige Erzeugnisse und Handelswaren.
+                  Art. 960d
+4. Anlage-        1 Als Anlagevermögen gelten Werte, die in der Absicht langfristiger
+vermögen
+                  Nutzung oder langfristigen Haltens erworben werden.
+                  2 Als langfristig gilt ein Zeitraum von mehr als zwölf Monaten.
+1796
+"
+"Obligationenrecht
+                  3 Als Beteiligungen gelten Anteile am Kapital eines anderen Unter-
+                  nehmens, die langfristig gehalten werden und einen massgeblichen
+                  Einfluss vermitteln. Dieser wird vermutet, wenn die Anteile mindes-
+                  tens 20 Prozent der Stimmrechte gewähren.
+                  Art. 960e
+III. Verbindlich- 1 Verbindlichkeiten müssen zum Nennwert eingesetzt werden.
+keiten
+                  2 Lassen vergangene Ereignisse einen Mittelabfluss in künftigen
+                  Geschäftsjahren erwarten, so müssen die voraussichtlich erforder-
+                  lichen Rückstellungen zulasten der Erfolgsrechnung gebildet werden.
+                  Ist der Betrag nicht verlässlich abschätzbar, so müssen im Anhang
+                  Angaben zum Rückstellungsbedarf gemacht werden.
+                  3 Rückstellungen dürfen zudem insbesondere gebildet werden für:
+                     1.   regelmässig anfallende Aufwendungen aus Garantieverpflich-
+                          tungen;
+                     2.   Sanierungen von Sachanlagen;
+                     3.   Restrukturierungen;
+                     4.   die Sicherung des dauernden Gedeihens des Unternehmens.
+                  4 Nicht mehr begründete Rückstellungen müssen nicht aufgelöst
+                  werden. Erfolgt eine Auflösung, so muss der Gesamtbetrag in der
+                  Erfolgsrechnung oder im Anhang gesondert ausgewiesen werden.
+                  Art. 960f
+IV. Verhältnis    1 Abschreibungen, Wertberichtigungen und Rückstellungen, die von
+zum Steuerrecht
+                  den Steuerbehörden nicht anerkannt werden, müssen als Gesamtbetrag
+                  im Anhang offengelegt werden. Die Offenlegung im Anhang erfolgt
+                  ab dem Geschäftsjahr, in dem die Veranlagung rechtskräftig wird.
+                  2 Auf die Offenlegung kann verzichtet werden, wenn das Unterneh-
+                  men die nicht anerkannten Abschreibungen, Wertberichtigungen und
+                  Rückstellungen direkt in der Bilanz auflöst. Unternehmen, die keinen
+                  Anhang erstellen, sind zu dieser Auflösung verpflichtet.
+                  Dritter Abschnitt:
+                  Rechnungslegung für grössere Unternehmen
+                  Art. 961
+A. Zusätzliche    Unternehmen, die von Gesetzes wegen zu einer ordentlichen Revision
+Anforderungen
+an den            verpflichtet sind, müssen:
+Geschäftsbericht
+                                                                                  1797
+"
+"Obligationenrecht
+                  1.   zusätzliche Angaben im Anhang der Jahresrechnung machen;
+                  2.   als Teil der Jahresrechnung eine Geldflussrechnung erstellen;
+                  3.   einen Lagebericht verfassen.
+               Art. 961a
+B. Anhang der  Im Anhang der Jahresrechnung müssen zusätzlich Angaben gemacht
+Jahresrechnung
+               werden:
+                  1.   zu den langfristigen, verzinslichen Verbindlichkeiten, aufge-
+                       teilt nach Fälligkeit innerhalb von einem bis fünf Jahren und
+                       nach fünf Jahren;
+                  2.   je gesondert zum Honorar der Revisionsstelle für Revisions-
+                       dienstleistungen und andere Dienstleistungen.
+               Art. 961b
+C. Geldfluss-  Die Geldflussrechnung stellt je gesondert die Veränderung der flüssi-
+rechnung
+               gen Mittel aus der Geschäftstätigkeit, der Investitionstätigkeit und der
+               Finanzierungstätigkeit dar.
+               Art. 961c
+D. Lagebericht 1 Der Lagebericht stellt den Geschäftsverlauf und die wirtschaftliche
+               Lage des Unternehmens sowie gegebenenfalls des Konzerns am Ende
+               des Geschäftsjahres unter Gesichtspunkten dar, die in der Jahresrech-
+               nung nicht zum Ausdruck kommen.
+               2 Der Lagebericht muss namentlich Aufschluss geben über:
+                  1.   die Anzahl Vollzeitstellen im Jahresdurchschnitt;
+                  2.   die Durchführung einer Risikobeurteilung;
+                  3.   die Bestellungs- und Auftragslage;
+                  4.   die Forschungs- und Entwicklungstätigkeit;
+                  5.   aussergewöhnliche Ereignisse;
+                  6.   die Zukunftsaussichten.
+               3 Der Lagebericht darf der Darstellung der wirtschaftlichen Lage in
+               der Jahresrechnung nicht widersprechen.
+               Art. 961d
+E. Erleichte-  1 Auf die Erstellung eines erweiterten Anhangs, einer Geldflussrech-
+rungen infolge
+Konzern-       nung und eines Lageberichts kann verzichtet werden, wenn das Unter-
+rechnung       nehmen selbst oder eine juristische Person, die das Unternehmen
+               kontrolliert, eine Konzernrechnung nach den Vorschriften dieses
+               Gesetzes erstellt.
+1798
+"
+"Obligationenrecht
+               2 Es können einen Geschäftsbericht nach den Vorschriften dieses
+               Abschnitts verlangen:
+                  1.    Gesellschafter, die mindestens 10 Prozent des Grundkapitals
+                        vertreten;
+                  2.    10 Prozent der Genossenschafter oder 20 Prozent der Ver-
+                        einsmitglieder;
+                  3.    jeder Gesellschafter oder jedes Mitglied, das einer persön-
+                        lichen Haftung oder einer Nachschusspflicht unterliegt.
+               Vierter Abschnitt: Abschluss nach anerkanntem Standard
+               zur Rechnungslegung
+               Art. 962
+A. Im          1 Erstellt das Unternehmen einen Abschluss nach einem anerkannten
+Allgemeinen
+               Standard zur Rechnungslegung, so kann es auf die Erstellung der
+               Jahresrechnung nach diesem Titel verzichten.
+               2 Das oberste Leitungs- oder Verwaltungsorgan ist für die Wahl des
+               anerkannten Standards zuständig, sofern die Statuten, der Gesell-
+               schaftsvertrag oder die Stiftungsurkunde keine anderslautenden Vor-
+               gaben enthalten oder das oberste Organ den anerkannten Standard
+               nicht festlegt.
+               3 Unabhängig von einer Jahresrechnung nach diesem Titel müssen die
+               folgenden Unternehmen einen Abschluss nach einem anerkannten
+               Standard erstellen:
+                  1.    Publikumsgesellschaften, wenn die Börse dies verlangt;
+                  2.    Genossenschaften mit mindestens 2 000 Genossenschaftern;
+                  3.    Stiftungen, die von Gesetzes wegen zu einer ordentlichen
+                        Revision verpflichtet sind.
+               4 Es können einen Abschluss nach einem anerkannten Standard ver-
+               langen:
+                  1.    Gesellschafter, die mindestens 10 Prozent des Grundkapitals
+                        vertreten;
+                  2.    10 Prozent der Genossenschafter oder 20 Prozent der Ver-
+                        einsmitglieder;
+                  3.    jeder Gesellschafter oder jedes Mitglied, das einer persön-
+                        lichen Haftung oder einer Nachschusspflicht unterliegt.
+               5 Die Pflicht zur Erstellung eines Abschlusses nach einem anerkannten
+               Standard entfällt, wenn eine Konzernrechnung nach den Bestimmun-
+               gen dieses Gesetzes erstellt wird.
+                                                                                1799
+"
+"Obligationenrecht
+               Art. 962a
+B. Anerkannte  1 Wird ein Abschluss nach einem anerkannten Standard zur Rech-
+Standards zur
+Rechnungs-     nungslegung erstellt, so muss angegeben werden:
+legung
+                  1.   nach welchem anerkannten Standard der Abschluss erstellt
+                       wurde;
+                  2.   ob der Abschluss an die Stelle der Jahresrechnung nach die-
+                       sem Titel tritt.
+               2 Der gewählte anerkannte Standard muss in seiner Gesamtheit und für
+               den ganzen Abschluss übernommen werden.
+               3 Die Einhaltung des anerkannten Standards muss durch einen zuge-
+               lassenen Revisionsexperten geprüft werden. Es ist eine ordentliche
+               Revision des Abschlusses durchzuführen.
+               4 Wird ein Abschluss nach einem anerkannten Standard zusätzlich zu
+               einer Jahresrechnung nach diesem Titel erstellt, so muss er dem obers-
+               ten Organ anlässlich der Genehmigung der Jahresrechnung vorgelegt
+               werden, bedarf aber selber keiner Genehmigung.
+               5 Der Bundesrat bezeichnet die anerkannten Standards. Er kann die
+               Voraussetzungen festlegen, die für die Wahl eines Standards oder den
+               Wechsel von einem Standard zum andern erfüllt sein müssen.
+               Fünfter Abschnitt: Konzernrechnung
+               Art. 963
+A. Pflicht zur 1 Kontrolliert eine rechnungslegungspflichtige juristische Person ein
+Erstellung
+               oder mehrere rechnungslegungspflichtige Unternehmen, so muss sie
+               im Geschäftsbericht für die Gesamtheit der kontrollierten Unterneh-
+               men eine konsolidierte Jahresrechnung (Konzernrechnung) erstellen.
+               2 Eine juristische Person kontrolliert ein anderes Unternehmen, wenn
+               sie:
+                  1.   direkt oder indirekt über die Mehrheit der Stimmen im obers-
+                       ten Organ verfügt;
+                  2.   direkt oder indirekt über das Recht verfügt, die Mehrheit der
+                       Mitglieder des obersten Leitungs- oder Verwaltungsorgans zu
+                       bestellen oder abzuberufen; oder
+                  3.   aufgrund der Statuten, der Stiftungsurkunde, eines Vertrags
+                       oder vergleichbarer Instrumente einen beherrschenden Ein-
+                       fluss ausüben kann.
+1800
+"
+"Obligationenrecht
+                 Art. 963a
+B. Befreiung von 1 Eine juristische Person ist von  der Pflicht zur Erstellung einer Kon-
+der Pflicht zur
+Erstellung       zernrechnung befreit, wenn sie:
+                     1.   zusammen mit den kontrollierten Unternehmen zwei der nach-
+                          stehenden Grössen in zwei aufeinander folgenden Geschäfts-
+                          jahren nicht überschreitet:
+                          a. Bilanzsumme von 10 Millionen Franken,
+                          b. Umsatzerlös von 20 Millionen Franken,
+                          c. 50 Vollzeitstellen im Jahresdurchschnitt; oder
+                     2.   von einem Unternehmen kontrolliert wird, dessen Konzern-
+                          rechnung nach schweizerischen oder gleichwertigen ausländi-
+                          schen Vorschriften erstellt und ordentlich geprüft worden ist.
+                 2 Eine Konzernrechnung ist dennoch zu erstellen, wenn:
+                     1.   dies für eine möglichst zuverlässige Beurteilung der wirt-
+                          schaftlichen Lage notwendig ist; oder
+                     2.   ein Gesellschafter, Genossenschafter, 20 Prozent der Ver-
+                          einsmitglieder oder die Stiftungsaufsichtsbehörde dies ver-
+                          langt.
+                 3 Verzichtet eine juristische Person gemäss Absatz 1 Ziffer 2 auf die
+                 Erstellung der Konzernrechnung für den Unterkonzern, so muss sie
+                 die Konzernrechnung des Oberkonzerns nach den Vorschriften für die
+                 eigene Jahresrechnung bekannt machen.
+                 Art. 963b
+C. Anerkannte    Die Konzernrechnung muss nach einem anerkannten Standard zur
+Standards zur
+Rechnungs-       Rechnungslegung erstellt werden. Artikel 962a Absätze 1−3 sind
+legung           sinngemäss anwendbar.
+3. Folgende Bestimmungen des Obligationenrechts8 werden wie folgt geändert:
+                 Art. 322a Abs. 3
+                 3 Ist ein Anteil am Gewinn des Unternehmens verabredet, so ist dem
+                 Arbeitnehmer überdies auf Verlangen eine Abschrift der Erfolgsrech-
+                 nung zu übergeben.
+8      SR 220
+                                                                                     1801
+"
+"Obligationenrecht
+               Art. 558 Randtitel, Abs. 1
+B. Rechnungs-  1 Für jedes Geschäftsjahr sind aufgrund der Jahresrechnung der
+legung
+               Gewinn oder Verlust zu ermitteln und der Anteil jedes Gesellschafters
+               zu berechnen.
+               Art. 559 Abs. 2 und 3
+               2 Zinse und Honorare dürfen, soweit dies der Vertrag vorsieht, schon
+               während des Geschäftsjahres, Gewinne dagegen erst nach der Geneh-
+               migung des Geschäftsberichts bezogen werden.
+               3 Gewinne, Zinse und Honorare, die ein Gesellschafter nicht bezieht,
+               werden nach der Genehmigung des Geschäftsberichts seinem Kapital-
+               anteil zugeschrieben, sofern kein anderer Gesellschafter dagegen
+               Einwendungen erhebt.
+               Art. 600 Abs. 3
+               3 Er ist berechtigt, eine Abschrift der Erfolgsrechnung und der Bilanz
+               zu verlangen und deren Richtigkeit unter Einsichtnahme in die
+               Geschäftsbücher und Buchungsbelege zu prüfen oder durch einen
+               unbeteiligten Sachverständigen prüfen zu lassen; im Streitfall bezeich-
+               net das Gericht den Sachverständigen.
+               Art. 611 Abs. 2
+               2 Der Kommanditär ist verpflichtet, unrechtmässig bezogene Zinsen
+               und Gewinne zurückzubezahlen. Artikel 64 findet Anwendung.
+               Art. 765 Abs. 2
+               2 Name, Wohnsitz und Heimatort oder bei Ausländern die Staatsange-
+               hörigkeit sowie die Funktion der Mitglieder der Verwaltung und der
+               zur Vertretung befugten Personen sind ins Handelsregister einzutra-
+               gen.
+               Art. 777c Abs. 2 Ziff. 1 und 2
+               2 Im Übrigen sind die Vorschriften des Aktienrechts entsprechend
+               anwendbar für:
+                  1.    die Angabe der Sacheinlagen, der Leistung der Einlagen durch
+                        Verrechnung, der Sachübernahmen und der besonderen Vor-
+                        teile in den Statuten;
+                  2.    die Eintragung von Sacheinlagen, der Leistung der Einlagen
+                        durch Verrechnung, von Sachübernahmen und von besonderen
+                        Vorteilen ins Handelsregister;
+1802
+"
+"Obligationenrecht
+               Art. 791 Abs. 1
+               1 Die Gesellschafter sind mit Name, Wohnsitz und Heimatort oder bei
+               Ausländern mit der Staatsangehörigkeit sowie mit der Anzahl und
+               dem Nennwert ihrer Stammanteile ins Handelsregister einzutragen.
+               Art. 801
+H. Reserven    Für die Reserven sind die Vorschriften des Aktienrechts entsprechend
+               anwendbar.
+               Art. 802 Abs. 2
+               2 Hat die Gesellschaft keine Revisionsstelle, so kann jeder Gesell-
+               schafter in die Geschäftsbücher und Akten uneingeschränkt Einsicht
+               nehmen. Hat sie eine Revisionsstelle, so besteht ein Recht zur Ein-
+               sichtnahme nur, soweit ein berechtigtes Interesse glaubhaft gemacht
+               wird.
+               Art. 804 Abs. 2 Ziff. 3 und 4
+               2 Der Gesellschafterversammlung stehen folgende unübertragbare
+               Befugnisse zu:
+                  3.   die Bestellung und die Abberufung der Mitglieder der Revi-
+                       sionsstelle;
+                  4.   die Genehmigung des Lageberichts und der Konzernrechnung;
+               Art. 805 Abs. 4 und 5 Ziff. 2
+               4 Die Beschlüsse können auch schriftlich gefasst werden, sofern:
+                  1.   kein Gesellschafter die mündliche Behandlung verlangt; und
+                  2.   die Beschlüsse der Gesellschafterversammlung keiner öffent-
+                       lichen Beurkundung bedürfen.
+               5 Im Übrigen sind die Vorschriften des Aktienrechts entsprechend
+               anwendbar für:
+                  2.   das Einberufung- und das Traktandierungsrecht der Gesell-
+                       schafter;
+               Art. 811 Abs. 2 und 3 (neu)
+               2 Die Erfüllung der Aufgaben der Geschäftsführer nach Artikel 810
+               Absatz 2 Ziffern 3–7 und Absatz 3 kann nicht der Genehmigung durch
+               die Gesellschafterversammlung unterstellt werden.
+               3 Die Genehmigung durch die Gesellschafterversammlung schränkt
+               die Haftung der Geschäftsführer nicht ein.
+                                                                                1803
+"
+"Obligationenrecht
+                  Art. 820
+E. Anzeige-       1 Für die Anzeigepflichten bei Kapitalverlust, Überschuldung und
+pflichten und
+Konkurs           Zahlungsunfähigkeit der Gesellschaft sowie für die Eröffnung und den
+                  Aufschub des Konkurses sind die Vorschriften des Aktienrechts
+                  entsprechend anwendbar.
+                  2 Das Gericht kann den Konkurs auf Antrag der Geschäftsführer oder
+                  eines Gläubigers namentlich dann aufschieben, wenn ausstehende
+                  Nachschüsse unverzüglich einbezahlt werden und Aussicht auf Sanie-
+                  rung besteht.
+                  Art. 856
+II. Kontrollrecht 1 Spätestens zehn Tage vor der Generalversammlung oder der
+der Genossen-
+schafter          Urabstimmung, die über die Genehmigung des Lageberichts, der
+1. Bekanntgabe    Konzernrechnung und der Jahresrechnung zu entscheiden hat, sind
+des Lagebe-
+richts, der       diese mit dem Revisionsbericht zur Einsicht der Genossenschafter am
+Jahresrechnung    Sitz der Genossenschaft aufzulegen.
+und der Kon-
+zernrechnung      2 Jeder Genossenschafter kann noch während eines Jahres nach der
+                  Generalversammlung von der Gesellschaft die Zustellung des
+                  Geschäftsberichts in der von der Generalversammlung genehmigten
+                  Form verlangen. Die Zustellung ist kostenlos.
+                  Art. 857 Abs. 2bis (neu)
+                  2bis Für die Offenlegung und die Auskunftserteilung betreffend Vergü-
+                  tungen für die Verwaltung gelten die Vorschriften des Aktienrechts
+                  sinngemäss. Für Genossenschaften mit mehr als 2000 Mitgliedern
+                  gelten die Vorschriften für Aktiengesellschaften mit börsenkotierten
+                  Aktien.
+                  Art. 858
+                  Aufgehoben
+                  Art. 874 Abs. 2
+                  2 Auf die Herabsetzung oder Aufhebung der Anteilscheine finden
+                  überdies die Bestimmungen über die ordentliche Kapitalherabsetzung
+                  bei der Aktiengesellschaft Anwendung.
+1804
+"
+"Obligationenrecht
+               Art. 879 Abs. 2 Ziff. 3–6
+               2 Ihr stehen folgende unübertragbare Befugnisse zu:
+                  3.    die Genehmigung des Lageberichts und der Konzernrechnung;
+                  4.    die Genehmigung der Jahresrechnung sowie gegebenenfalls
+                        die Beschlussfassung über die Verwendung des Bilanz-
+                        gewinns;
+                  5.    die Entlastung der Verwaltung;
+                  6.    die Beschlussfassung über die Gegenstände, die der General-
+                        versammlung durch das Gesetz oder die Statuten vorbehalten
+                        sind.
+               Art. 879a (neu)
+               Die Vorschriften des Aktienrechts über die Verwendung elektroni-
+               scher Mittel sind bei der Vorbereitung und Durchführung der Gene-
+               ralversammlung sinngemäss anwendbar.
+               Art. 902 Abs. 3
+               3 Die Verwaltung ist dafür verantwortlich, dass:
+                  1.    ihre Protokolle und diejenigen der Generalversammlung, die
+                        notwendigen Geschäftsbücher sowie das Genossenschafter-
+                        verzeichnis regelmässig geführt werden;
+                  2.    der Geschäftsbericht nach den gesetzlichen Vorschriften auf-
+                        gestellt und der Revisionsstelle zur Prüfung unterbreitet wird;
+                        und
+                  3.    die vorgeschriebenen Anzeigen an das Handelsregisteramt
+                        über Eintritt und Austritt der Genossenschafter gemacht wer-
+                        den.
+               Art. 903
+2. Anzeige-    1 Für die Anzeigepflichten bei Kapitalverlust, Überschuldung und
+pflichten und
+Konkurs        Zahlungsunfähigkeit der Genossenschaft sowie für die Eröffnung und
+               den Aufschub des Konkurses sind die Vorschriften des Aktienrechts
+               entsprechend anwendbar.
+               2 Das Gericht kann den Konkurs auf Antrag der Verwaltung oder
+               eines Gläubigers namentlich dann aufschieben, wenn ausstehende
+               Nachschüsse unverzüglich einbezahlt werden und Aussicht auf Sanie-
+               rung besteht.
+               Art. 927 Randtitel
+               Aufgehoben
+                                                                                  1805
+"
+"Obligationenrecht
+                  Art. 928
+B. Öffentlichkeit 1 Das Handelsregister ist öffentlich. Die Öffentlichkeit umfasst die
+I. Im             Einträge, die Anmeldungen und die Belege.
+Allgemeinen
+                  2 Die Einträge, die Statuten und die Stiftungsurkunde sind im Internet
+                  unentgeltlich zugänglich.
+                  3 Der Bundesrat bestimmt die Modalitäten der Öffentlichkeit und der
+                  Veröffentlichung.
+                  4 In den im Internet zugänglich gemachten Daten des Handelsregisters
+                  ist eine Suche nach bestimmten Kriterien, insbesondere nach perso-
+                  nenbezogenen Kriterien, zulässig.
+                  5 Bei Abweichungen gehen die im Hauptregister eingetragenen Tat-
+                  sachen den im Internet zugänglich gemachten Daten vor.
+                  Art. 928a (neu)
+II. Veröffent-    1 Einträge im Tagebuch sind spätestens innert zwei Tagen nach ihrer
+lichung von
+Handelsregister-  Genehmigung durch das Eidgenössische Amt für das Handelsregister
+einträgen         im Schweizerischen Handelsamtsblatt in gedruckter und in elektroni-
+                  scher Form zu veröffentlichen. Rechtsmassgebend ist die elektroni-
+                  sche Veröffentlichung.
+                  2 Der Bundesrat erlässt Vorschriften über:
+                      1.  die elektronische Veröffentlichung der Eintragungen im Han-
+                          delsregister;
+                      2.  die Einrichtung des Schweizerischen Handelsamtsblatts;
+                      3.  die Veröffentlichung der Eintragungen im Schweizerischen
+                          Handelsamtsblatt;
+                      4.  Ausnahmen von der Pflicht zur Veröffentlichung.
+                  Art. 929
+C. Haftung        1 Wer durch eine in einem Handelsregisteramt tätige Person in Aus-
+                  übung ihrer amtlichen Tätigkeit widerrechtlich verletzt wird, hat
+                  Anspruch auf Schadenersatz und, wo die Schwere der Verletzung es
+                  rechtfertigt, auf Genugtuung.
+                  2 Haftbar ist der Kanton; gegen die Person, die den Schaden verur-
+                  sacht hat, steht der geschädigten Person kein Ersatzanspruch zu.
+                  3 Für den Rückgriff des Kantons auf die Person, die den Schaden
+                  verursacht hat, ist das kantonale Recht massgebend.
+                  4 Die Haftung der Bundesbehörden richtet sich nach dem Verantwort-
+                  lichkeitsgesetz vom 14. März 19589.
+9     SR 170.32
+1806
+"
+"Obligationenrecht
+                 Art. 929a
+                 Aufgehoben
+                 Art. 930
+D. Verordnung    1 Der Bundesrat erlässt die Vorschriften über die Einrichtung, die
+des Bundesrats
+I. Im
+                 Führung und die Beaufsichtigung des Handelsregisters sowie über
+Allgemeinen      das Verfahren, die Anmeldung zur Eintragung, die einzureichenden
+                 Belege und deren Prüfung, den Inhalt und die Prüfung des Eintrags,
+                 die Gebühren und die Beschwerdeführung.
+                 2 Die Gebühren sollen der wirtschaftlichen Bedeutung der Rechtsein-
+                 heit angepasst sein.
+                 Art. 930a (neu)
+II. Bei der      1 Der Bundesrat erlässt die Vorschriften über die Führung des Han-
+Führung des
+Handelsregisters delsregisters mit elektronischen Mitteln und den elektronischen
+mittels
+Informatik
+                 Datenaustausch zwischen den Handelsregisterbehörden. Insbesondere
+                 kann er den Kantonen die Führung des Handelsregisters mit elektroni-
+                 schen Mitteln, die Entgegennahme elektronisch eingereichter Belege,
+                 die elektronische Erfassung von Belegen und die elektronische Daten-
+                 übermittlung vorschreiben.
+                 2 Der Bundesrat bestimmt, ob und unter welchen Voraussetzungen die
+                 elektronische Einreichung von Anmeldungen und Belegen beim
+                 Handelsregisteramt zulässig ist. Er kann Vorschriften zur elektroni-
+                 schen Aufbewahrung von Belegen erlassen und den Kantonen vor-
+                 schreiben, beglaubigte Handelsregisterauszüge in elektronischer Form
+                 auszustellen.
+                 Art. 931
+E. Einträge      Die Einträge im Handelsregister müssen wahr sein und dürfen weder
+I. Grundsatz     zu Täuschungen Anlass geben noch einem öffentlichen Interesse
+                 widersprechen.
+                 Art. 931a Randtitel, Abs. 3 (neu)
+II. Anmeldung    3 Eine Anmeldung gilt als eingereicht, wenn sämtliche erforderlichen
+                 Belege beigefügt sind und die Anmeldung sowie die Belege den
+                 rechtlichen Anforderungen genügen.
+                 Art. 932 Randtitel
+III. Beginn der
+Wirksamkeit
+                                                                                 1807
+"
+"Obligationenrecht
+                Art. 933 Randtitel
+IV. Wirkungen
+                Art. 934 Randtitel
+V. Eintragung
+ins Handels-
+register
+1. Recht und
+Pflicht
+                Art. 941
+2. Mahnung.     1 Das Handelsregisteramt hat die Beteiligten zur Erfüllung der
+Eintragung von
+Amtes wegen     Anmeldungspflicht anzuhalten und nötigenfalls die vorgeschriebenen
+                Eintragungen von Amtes wegen vorzunehmen.
+                2 Der Bundesrat kann den Behörden und den Gerichten des Bundes,
+                der Kantone, der Bezirke und der Gemeinden vorschreiben, den Han-
+                delsregisterbehörden kostenlos:
+                   1.     einzutragende Tatsachen zu melden, von denen sie im Rahmen
+                          der Ausübung ihrer Aufgaben Kenntnis erlangen;
+                   2.     Auskunft über Tatsachen zu erteilen, die ihren Aufgaben-
+                          bereich betreffen und deren Kenntnis für eine Eintragung
+                          erforderlich ist.
+                Art. 943
+2. Ordnungs-    1 Wenn das Gesetz die Beteiligung zur Anmeldung einer Eintragung
+bussen
+                verpflichtet, hat das Handelsregisteramt von Amtes wegen gegen die
+                Fehlbaren mit Ordnungsbussen im Betrage von 500 bis 5000 Franken
+                einzuschreiten.
+                2 Wird die Pflicht zur Eintragung eines Unternehmens ins Handels-
+                register verletzt, so beträgt die Busse mindestens 1000 Franken.
+                Art. 943a (neu)
+IX. Haftung für 1 Für die Bezahlung der Gebühren und Auslagen haften persönlich
+Gebühren und
+Auslagen        und solidarisch:
+                   1.     die Rechtseinheit;
+                   2.     sämtliche Personen, die eine Anmeldung einreichen, hätten
+                          einreichen müssen oder eine Amtshandlung verlangen.
+                2 Von der Haftung nach Absatz 1 ausgenommen sind Behörden und
+                Gerichte, soweit sie eine Amtshandlung verlangen, die sie nicht selbst
+                betrifft.
+1808
+"
+"Obligationenrecht
+                 Art. 944 Abs. 2
+                 2 Unter Vorbehalt der allgemeinen Grundsätze der Firmenbildung und
+                 der Pflicht zur Angabe der Rechtsform darf die Firma aus reinen
+                 Sachbezeichnungen bestehen. Reine Sachbezeichnungen geniessen
+                 jedoch keinen Schutz gegenüber später im Handelsregister eingetrage-
+                 nen Firmen.
+                 Art. 947 Abs. 5 (neu)
+                 5 Wird einem Mitglied der Verwaltung einer Kommanditaktiengesell-
+                 schaft die Geschäftsführung und Vertretung entzogen oder tritt das
+                 Mitglied zurück, so muss die Firma geändert werden, sofern der Name
+                 des Mitglieds in der Firma enthalten ist.
+                 Art. 956 Abs. 2 zweiter Satz (neu)
+                 2 ... . Artikel 944 Absatz 2 bleibt vorbehalten.
+II
+Die Änderung bisherigen Rechts wird im Anhang geregelt.
+III
+Die Übergangsbestimmungen der Änderung vom … lauten wie folgt:
+                 Art. 1
+A. Allgemeine    1 Die Bestimmungen des Schlusstitels des Zivilgesetzbuches gelten
+Regel
+                 für dieses Gesetz, soweit die folgenden Bestimmungen nichts anderes
+                 vorsehen.
+                 2 Die Bestimmungen des neuen Gesetzes werden mit seinem Inkraft-
+                 treten auf bestehende Gesellschaften anwendbar.
+                 Art. 2
+B. Anpassung     1 Gesellschaften, die im Zeitpunkt des Inkrafttretens dieses Gesetzes
+von Statuten und
+Reglementen      im Handelsregister eingetragen sind, jedoch den neuen Vorschriften
+                 nicht entsprechen, müssen innerhalb von zwei Jahren ihre Statuten
+                 und Reglemente den neuen Bestimmungen anpassen.
+                 2 Bestimmungen der Statuten und Reglemente, die mit dem neuen
+                 Recht nicht vereinbar sind, bleiben bis zur Anpassung, längstens aber
+                 noch zwei Jahre in Kraft.
+                 3 Gesellschaften, die vor dem Inkrafttreten dieses Gesetzes gegründet
+                 wurden, sind von der Anpassung der Mindesteinlage auf Aktien
+                 ausgenommen.
+                                                                                 1809
+"
+"Obligationenrecht
+                 Art. 3
+C. Genehmigte    Für genehmigte und bedingte Kapitalerhöhungen, die vor dem Inkraft-
+und bedingte
+Kapitalerhöhung  treten dieses Gesetzes beschlossen wurden, kommt das bisherige
+                 Recht zur Anwendung. Die Beschlüsse können nicht mehr verlängert
+                 werden.
+                 Art. 4
+D. Rechnungs-    1 Die Vorschriften des 32. Titels finden erstmals Anwendung für das
+legung
+                 Geschäftsjahr, das zwei Jahre nach Inkrafttreten dieses Gesetzes
+                 beginnt.
+                 2 Für die Anwendung der Bestimmungen zur Rechnungslegung von
+                 grösseren Unternehmen sind die Bilanzsumme, der Umsatzerlös und
+                 die Vollzeitstellen im Jahresdurchschnitt in den zwei vor dem Inkraft-
+                 treten dieses Gesetzes vorangegangenen Geschäftsjahren massgebend.
+                 3 Die Bestimmungen zur Konzernrechnung finden erstmals Anwen-
+                 dung auf das Geschäftsjahr, das drei Jahre nach Inkrafttreten dieses
+                 Gesetzes beginnt. Für die Befreiung von der Pflicht zur Erstellung
+                 einer Konzernrechnung sind die zwei vorangehenden Geschäftsjahre
+                 massgebend.
+                 4 Bei erstmaliger Anwendung der Vorschriften zur Rechnungslegung
+                 kann auf die Nennung der Zahlen der Vorjahre verzichtet werden. Bei
+                 der zweiten Anwendung müssen nur die Zahlen des Vorjahres ange-
+                 geben werden. Werden Zahlen der vorgängigen Geschäftsjahre
+                 genannt, so kann auf die Stetigkeit der Darstellung und die Gliederung
+                 verzichtet werden. Im Anhang ist auf diesen Umstand hinzuweisen.
+                 Art. 5
+E. Firmenrecht   Firmen, die vor dem 1. Januar 2008 im Handelsregister eingetragen
+                 wurden und reine Sachbezeichnungen enthalten, geniessen weiterhin
+                 Schutz nach bisherigem Recht.
+Weitere Bestimmungen des Obligationenrechts werden wie folgt
+geändert:
+Ersatz von Ausdrücken
+1.     Das Wort «Richter» wird durch «Gericht» ersetzt in den Artikeln 545 Absatz 1
+       Ziffer 7, 565 Absatz 2, 574 Absatz 3, 577 Randtitel und Text, 579 Absatz 2,
+       580 Absatz 2, 583 Absatz 2, 585 Absatz 3, 601 Absatz 2, 643 Absatz 3, 685b
+       Absatz 5, 706 Absatz 1, 706a Absatz 2, 716a Absatz 1 Ziffer 7, 731b Absätze 2
+       und 3, 740 Absatz 4, 741 Absatz 2, 743 Absatz 2, 759 Absätze 2 und 3, 846
+       Absatz 3, 857 Absatz 3, 881 Absatz 3, 890 Absatz 2, 891 Absatz 1, 904
+1810
+"
+"Obligationenrecht
+     Absatz 3, 918 Absatz 2, 924 Absatz 2, 938a Absatz 2, 941a Randtitel und
+     Absätze 1 und 3 .
+2.   Das Wort «Sonderprüfung» wird durch «Sonderuntersuchung» ersetzt in den
+     Artikeln 697a Randtitel, Absatz 1, 697d Absatz 1.
+3.   Das Wort «Reinertrag» wird durch «Bilanzgewinn» ersetzt in den Artikeln 833
+     Ziffer 8, 859 Absätze 13, 860 Absatz 1, 861 Randtitel und Absätze 13, 863
+     Absätze 1 und 3.
+4.   Das Wort «Registerführer» wird durch «Handelsregisteramt» ersetzt in den
+     Artikeln 938b Absatz 2, 940 Randtitel und Absatz 1, 941a Absätze 1 3 und,
+     955.
+5.   Das Wort «Handelsregisterführer» wird durch «Handelsregisteramt» ersetzt in
+     den Artikeln 727f Absätze 1 und 2, 813 Absatz 2, 895 Absatz 2, 938a Absatz 1,
+     939 Absatz 1.
+6.   Betrifft nur den französischen Text
+IV
+1 Dieses Gesetz untersteht dem fakultativen Referendum.
+2 Der Bundesrat bestimmt das Inkrafttreten.
+                                                                            1811
+"
+"Obligationenrecht
+                                                                                Anhang
+                                                                               (Ziff. II)
+Änderungen bisherigen Rechts
+Die nachfolgenden Erlasse werden wie folgt geändert:
+1. Bundespersonalgesetz vom 24. März 200010
+Art. 6a Abs. 4 zweiter Satz, Abs. 6 letzter Satz
+4 … Für die der Geschäftsleitung vorsitzende Person und die Mitglieder des
+Verwaltungsrats beziehungsweise eines vergleichbaren obersten Leitungsorgans
+wird der Lohn beziehungsweise das Honorar (einschliesslich Nebenleistungen)
+jeweils individuell ausgewiesen.
+6 ... . Für diese gelten die Artikel 697quater und 697sexies Absatz 3 des Obligationen-
+rechts11.
+                2. Zivilgesetzbuch12
+                Art. 61 Abs. 3
+                Aufgehoben
+                Art. 65 Abs. 4 (neu)
+                4 Sehen die Statuten nichts anderes vor, so setzt die Vereinsversamm-
+                lung die Entschädigung für den Vorstand fest.
+                Art. 69a
+                Der Vorstand führt die Geschäftsbücher des Vereins. Die Vorschriften
+                des Obligationenrechts13 über die kaufmännische Buchführung und
+                Rechnungslegung gelten sinngemäss.
+                Art. 69d (neu)
+Bbis. Anzeige-  1 Für Vereine, die verpflichtet sind, sich im Handelsregister einzutra-
+pflichten und
+Konkurs         gen, sind für die Anzeigepflichten bei Überschuldung und Zahlungs-
+                unfähigkeit sowie für die Eröffnung und den Aufschub des Konkurses
+                die Vorschriften des Aktienrechts entsprechend anwendbar.
+10     SR 172.220.1
+11     SR 220; BBl 2008 1751
+12     SR 210
+13     SR 220; BBl 2008 1751
+1812
+"
+"Obligationenrecht
+                2 Das Gericht kann den Konkurs auf Antrag des Vorstandes oder eines
+                Gläubigers namentlich dann aufschieben, wenn ausstehende Nach-
+                schüsse unverzüglich einbezahlt werden und Aussicht auf Sanierung
+                besteht.
+                Art. 83a
+II. Buchführung Das oberste Stiftungsorgan führt die Geschäftsbücher der Stiftung. Die
+                Vorschriften des Obligationenrechts14 über kaufmännische Buchfüh-
+                rung und Rechnungslegung gelten sinngemäss.
+                Art. 84b
+Cter. Offen-    Das oberste Stiftungsorgan muss der Aufsichtsbehörde jährlich die
+legung von
+Vergütungen     Summe der ihm ausgerichteten Vergütungen bekannt geben. Gibt es
+                eine Geschäftsleitung, so müssen auch die Vergütungen an diese
+                bekannt gegeben werden.
+3. Fusionsgesetz vom 3. Oktober 200315
+Art. 6 Abs. 1 und Abs. 1bis (neu)
+1  Eine Gesellschaft, deren Aktien-, Stamm- oder Genossenschaftskapital und deren
+gesetzliche Reserven zur Hälfte nicht mehr gedeckt sind oder die überschuldet ist,
+kann mit einer anderen Gesellschaft nur fusionieren, wenn diese über frei ver-
+wendbares Eigenkapital im Umfang der Unterdeckung und gegebenenfalls der
+Überschuldung verfügt.
+1bis Die Voraussetzung nach Absatz 1 entfällt, soweit Gläubigerinnen und Gläubiger
+der an der Fusion beteiligten Gesellschaften im Rang hinter alle anderen Gläu-
+bigerinnen und Gläubiger zurücktreten. Die Stundung muss sowohl den
+geschuldeten Betrag als auch die Zinsforderungen während der Dauer der
+Überschuldung umfassen.
+Art. 70 Abs. 2 dritter Satz
+2  … Eine einzige öffentliche Urkunde genügt auch dann, wenn Grundstücke, die
+Gegenstand einer Vermögensübertragung sind, in verschiedenen Kantonen liegen. ...
+14     SR 220; BBl 2008 1751
+15     SR 221.301
+                                                                                 1813
+"
+"Obligationenrecht
+4. Revisionsaufsichtsgesetz vom 16. Dezember 200516
+Art. 36a (neu) Verantwortlichkeit
+1 Die Verantwortlichkeit der Aufsichtsbehörde, ihrer Organe, ihres Personals sowie
+der von der Aufsichtsbehörde beigezogenen Drittpersonen richtet sich unter
+Vorbehalt von Absatz 2 nach dem Verantwortlichkeitsgesetz vom 14. März 195817.
+2 Die Aufsichtsbehörde haftet nur, wenn:
+   a.    sie wesentliche Amtspflichten verletzt hat; und
+   b.    Schäden nicht auf Pflichtverletzungen einer Revisorin, eines Revisors, einer
+         Revisionsexpertin, eines Revisionsexperten oder eines Revisionsunterneh-
+         mens zurückzuführen sind.
+5. Bundesgesetz vom 14. Dezember 199018 über die direkte
+Bundessteuer
+Art. 126 Abs. 3 zweiter Satz
+3 … Die Art und Weise der Führung und der Aufbewahrung richtet sich nach den
+Bestimmungen des Obligationenrechts19 (Art. 957, 957a, 958 und 958a–958f OR).
+Art. 207b (neu)                Übergangsbestimmung zur Änderung des
+                               Obligationenrechts vom …20
+1 Unternehmen, die ihre Jahresrechnung in den ersten drei Geschäftsjahren nach dem
+Inkrafttreten der Änderung des Obligationenrechts vom … erstmals ausschliesslich
+nach einem anerkannten Standard zur Rechnungslegung gemäss den Artikeln 962
+und 962a des Obligationenrechts erstellen, können die durch die Umstellung der
+Rechnungslegung entstandene Zunahme des Eigenkapitals steuerfrei einer Reserve
+zur gestaffelten Besteuerung gutschreiben.
+2 Je ein Drittel dieser Reserve ist in der Steuerperiode der Umstellung und den zwei
+nachfolgenden Steuerperioden steuerlich aufzulösen und dem steuerbaren Gewinn
+zuzurechnen.
+3 Wird innerhalb von drei Jahren nach der Umstellung die Jahresrechnung wieder
+nach den Vorschriften des Obligationenrechts erstellt, so sind Abschreibungen und
+Rückstellungen für die Bemessung des steuerbaren Reingewinnes mit der noch
+bestehenden Reserve zur gestaffelten Besteuerung zu verrechnen.
+16   SR 221.302
+17   SR 170.32
+18   SR 642.11
+19   SR 220; BBl 2008 1751
+20   SR 220; BBl 2008 1751
+1814
+"
+"Obligationenrecht
+6. Bundesgesetz vom 14. Dezember 199021 über die Harmonisierung der
+direkten Steuern der Kantone und Gemeinden
+Art. 42 Abs. 3 zweiter Satz
+3 … Die Art und Weise der Führung und der Aufbewahrung richtet sich nach den
+Bestimmungen des Obligationenrechts22 (Art. 957, 957a, 958 und 958a–958f OR).
+Art. 72k (neu)                 Anpassung der kantonalen Gesetzgebung
+1 Die Kantone passen ihre Gesetzgebung den Bestimmungen von Artikel 42 und 78d
+auf den Zeitpunkt von deren Inkrafttreten an.
+2 Ab diesem Zeitpunkt finden die Artikel 42 und 78d direkt Anwendung, wenn ihnen
+das kantonale Steuerrecht widerspricht.
+Art. 78d (neu)                 Übergangsbestimmung zur Änderung des
+                               Obligationenrechts vom …23
+1 Unternehmen, die ihre Jahresrechnung in den ersten drei Geschäftsjahren nach dem
+Inkrafttreten der Änderung des Obligationenrechts vom … erstmals ausschliess-lich
+nach einem anerkannten Standard zur Rechnungslegung gemäss den Arti-keln 962
+und 962a des Obligationenrechts erstellen, können die durch die Umstel-lung der
+Rechnungslegung entstandene Zunahme des Eigenkapitals steuerfrei einer Reserve
+zur gestaffelten Besteuerung gutschreiben.
+2 Je ein Drittel dieser Reserve ist in der Steuerperiode der Umstellung und den zwei
+nachfolgenden Steuerperioden steuerlich aufzulösen und dem steuerbaren Gewinn
+zuzurechnen.
+3 Die Reserve zur gestaffelten Besteuerung ist Bestandteil des steuerbaren Kapitals.
+4 Wird innerhalb von drei Jahren nach der Umstellung die Jahresrechnung wieder
+nach den Vorschriften des Obligationenrechts erstellt, so sind Abschreibungen und
+Rückstellungen für die Bemessung des steuerbaren Reingewinnes mit der noch
+bestehenden Reserve zur gestaffelten Besteuerung zu verrechnen.
+7. Mehrwertsteuergesetz vom 2. September 199924
+Art. 58 Abs. 2 zweiter Satz
+2 … Artikel 958f des Obligationenrechts25 bleibt vorbehalten. …
+21   SR. 642.14
+22   SR 220; BBl 2008 1751
+23   SR 220; BBl 2008 1751
+24   SR 641.20
+25   SR 220; BBl 2008 1751
+                                                                                1815
+"
+"Obligationenrecht
+8. Bankengesetz vom 8. November 193426
+Vierter Abschnitt: Rechnungslegung
+Art. 6           Erstellen von Abschlüssen
+1 Die Bank erstellt für jedes Geschäftsjahr einen Geschäftsbericht. Dieser besteht
+aus:
+   a.    der Jahresrechnung;
+   b.    dem Lagebericht;
+   c.    der Konzernrechnung.
+2 Die Bank erstellt mindestens halbjährlich einen Zwischenabschluss.
+3 Der Geschäftsbericht und der Zwischenabschluss sind nach den Vorschriften des
+32. Titels des Obligationenrechts27 und dieses Gesetzes sowie nach den jeweiligen
+Ausführungsbestimmungen zu erstellen.
+4 In ausserordentlichen Lagen kann der Bundesrat Abweichungen von Absatz 3
+beschliessen.
+Art. 6a          Veröffentlichung
+1 Der Geschäftsbericht ist der Öffentlichkeit zugänglich zu machen.
+2 Zwischenabschlüsse sind der Öffentlichkeit zugänglich zu machen, wenn die
+Ausführungsbestimmungen zu diesem Gesetz dies vorsehen.
+3 Die Absätze 1 und 2 finden keine Anwendung auf Privatbankiers, die sich nicht
+öffentlich zur Annahme fremder Gelder empfehlen. Artikel 958e Absatz 2 Obliga-
+tionenrecht28 bleibt vorbehalten.
+Art. 6b          Ausführungsbestimmungen
+1 Der Bundesrat erlässt Ausführungsbestimmungen über die Form, den Inhalt und
+die Veröffentlichung von Geschäftsberichten und Zwischenabschlüssen.
+2 Er kann von den Bestimmungen des Obligationenrechts29 über die Buchführung
+und Rechnungslegung abweichen, wenn die Besonderheiten des Bankgeschäfts oder
+der Schutz der Gläubiger dies rechtfertigen und die wirtschaftliche Lage gleich-
+wertig dargestellt wird.
+3 Er kann die Bankenkommission ermächtigen, in Belangen von beschränkter
+Tragweite, namentlich in vorwiegend technischen Angelegenheiten, Ausführungs-
+bestimmungen zu erlassen.
+26   SR 952.0
+27   SR 220; BBl 2008 1751
+28   SR 220; BBl 2008 1751
+29   SR 220; BBl 2008 1751
+1816
+"
+"Obligationenrecht
+4 Die Bankenkommission kann unter den Voraussetzungen von Absatz 2 die
+Anwendung der vom Bundesrat anerkannten Standards zur Rechnungslegung im
+Bereich der Banken einschränken.
+9. Börsengesetz vom 24. März 199530
+Art. 16          Rechnungslegung
+1 Die Bestimmungen des Bankengesetzes vom 8. November 193431 über die
+Rechnungslegung für Banken gelten sinngemäss auch für Effektenhändler.
+2 Der Bundesrat kann von den Bestimmungen nach Absatz 1 abweichen, wenn die
+Besonderheiten des Effektenhandelsgeschäfts dies rechtfertigen.
+10. Versicherungsaufsichtsgesetz vom 17. Dezember 200432
+Art. 25 Abs. 1 erster Satz
+1 Die Versicherungsunternehmen erstellen jährlich auf den 31. Dezember den
+Geschäftsbericht, bestehend aus Jahresrechnung, Lagebericht und, wenn das Gesetz
+dies vorschreibt, Konzernrechnung. …
+Art. 26 Sachüberschrift, Abs. 1 und 3–5
+                Sachüberschrift:
+                Betrifft nur den französischen und italienischen Text
+1 Versicherungsunternehmen haben die gesetzliche Gewinnreserve nach Massgabe
+ihres Geschäftsplanes zu bilden. Die Aufsichtsbehörde regelt die Höhe der
+Mindestzuweisung.
+3 Der Bundesrat kann von den Bestimmungen des Obligationenrechts33 über die
+Buchführung und Rechnungslegung abweichen, wenn die Besonderheiten des
+Versicherungsgeschäftes oder der Versichertenschutz dies rechtfertigen und die
+wirtschaftliche Lage gleichwertig dargestellt wird.
+4 Er kann die Aufsichtsbehörde ermächtigen, in Belangen von beschränkter
+Tragweite, namentlich in vorwiegend technischen Angelegenheiten, Ausführungs-
+bestimmungen zu erlassen.
+5 Die Aufsichtsbehörde kann unter den Voraussetzungen nach Absatz 3 die
+Anwendung der vom Bundesrat anerkannten Standards zur Rechnungslegung im
+Bereich der Versicherungen einschränken.
+30   SR 954.1
+31   SR 952.0
+32   SR 961.01
+33   SR 220; BBl 2008 1751
+                                                                           1817
+"
+"Obligationenrecht
+Art. 28 Abs. 1
+1 Das Versicherungsunternehmen hat eine externe Revisionsstelle mit einer ordent-
+lichen Revision nach dem Obligationenrecht34 zu beauftragen.
+34   SR 220; BBl 2008 1751
+1818
+"
